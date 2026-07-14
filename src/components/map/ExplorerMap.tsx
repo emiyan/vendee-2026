@@ -116,11 +116,14 @@ function FitBounds({ places }: { places: Place[] }) {
         }
 
         const bounds = L.latLngBounds([
-            [home.latitude, home.longitude],
-            ...places.map((place) => [
-                place.latitude,
-                place.longitude,
-            ]),
+            [home.latitude, home.longitude] as [number, number],
+
+            ...places.map(
+                (place): [number, number] => [
+                    place.latitude,
+                    place.longitude,
+                ]
+            ),
         ]);
 
         map.fitBounds(bounds, {
