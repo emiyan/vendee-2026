@@ -1,0 +1,112 @@
+[
+    {
+      "id": "marais-breton-vendeen",
+      "category": "Nature",
+      "name": "Marais Breton Vendéen",
+      "description": "Immense zone humide mêlant canaux, prairies et faune remarquable.",
+      "city": "Beauvoir-sur-Mer",
+      "latitude": 46.9152,
+      "longitude": -2.0412,
+      "officialWebsite": "https://www.marais-breton-vendeen.com/",
+      "imageUrl": ""
+    },
+    {
+      "id": "marais-poitevin",
+      "category": "Nature",
+      "name": "Marais Poitevin",
+      "description": "Parc naturel régional surnommé la Venise Verte.",
+      "city": "Maillezais",
+      "latitude": 46.3748,
+      "longitude": -0.7398,
+      "officialWebsite": "https://www.parc-marais-poitevin.fr/",
+      "imageUrl": ""
+    },
+    {
+      "id": "foret-domaniale-pays-monts",
+      "category": "Nature",
+      "name": "Forêt domaniale des Pays de Monts",
+      "description": "Grande forêt littorale entre dunes et océan.",
+      "city": "Saint-Jean-de-Monts",
+      "latitude": 46.7978,
+      "longitude": -2.0358,
+      "officialWebsite": "https://www.onf.fr/",
+      "imageUrl": ""
+    },
+    {
+      "id": "foret-mervent-vouvant",
+      "category": "Nature",
+      "name": "Massif forestier de Mervent-Vouvant",
+      "description": "Plus grande forêt de Vendée, idéale pour les amoureux de nature.",
+      "city": "Mervent",
+      "latitude": 46.5235,
+      "longitude": -0.7723,
+      "officialWebsite": "https://www.vendee-tourisme.com/",
+      "imageUrl": ""
+    },
+    {
+      "id": "reserve-baie-aiguillon",
+      "category": "Nature",
+      "name": "Réserve naturelle de la Baie de l'Aiguillon",
+      "description": "Site majeur d'observation des oiseaux migrateurs.",
+      "city": "L'Aiguillon-la-Presqu'île",
+      "latitude": 46.3324,
+      "longitude": -1.2946,
+      "officialWebsite": "https://www.reserve-baie-aiguillon.fr/",
+      "imageUrl": ""
+    },
+    {
+      "id": "reserve-belle-henriette",
+      "category": "Nature",
+      "name": "Réserve naturelle de la Casse de la Belle Henriette",
+      "description": "Lagune littorale protégée entre océan et marais.",
+      "city": "La Tranche-sur-Mer",
+      "latitude": 46.3855,
+      "longitude": -1.4298,
+      "officialWebsite": "https://www.vendee.gouv.fr/Actions-de-l-Etat/Environnement/Eau-et-Nature/Biodiversite/Habitats-espaces-proteges/Aires-protegees/Reserves-Naturelles-Nationales",
+      "imageUrl": ""
+    },
+    {
+      "id": "reserve-marais-mullembourg",
+      "category": "Nature",
+      "name": "Réserve naturelle des Marais de Müllembourg",
+      "description": "Zone humide préservée au cœur de l'Île d'Yeu.",
+      "city": "L'Île-d'Yeu",
+      "latitude": 46.7076,
+      "longitude": -2.3435,
+      "officialWebsite": "https://www.vendee.gouv.fr/Actions-de-l-Etat/Environnement/Eau-et-Nature/Biodiversite/Habitats-espaces-proteges/Aires-protegees/Reserves-Naturelles-Nationales",
+      "imageUrl": ""
+    },
+    {
+      "id": "cite-des-oiseaux",
+      "category": "Nature",
+      "name": "Cité des Oiseaux",
+      "description": "Réserve ornithologique avec observatoires et sentiers.",
+      "city": "Les Landes-Génusson",
+      "latitude": 46.6392,
+      "longitude": -1.1113,
+      "officialWebsite": "https://www.vendee.fr/",
+      "imageUrl": ""
+    },
+    {
+      "id": "reserve-des-huttes",
+      "category": "Nature",
+      "name": "Réserve des Huttes",
+      "description": "Sentiers au cœur du Marais Poitevin vendéen.",
+      "city": "Nalliers",
+      "latitude": 46.4708,
+      "longitude": -1.0192,
+      "officialWebsite": "https://www.vendee.fr/",
+      "imageUrl": ""
+    },
+    {
+      "id": "dunes-pays-de-monts",
+      "category": "Nature",
+      "name": "Dunes des Pays de Monts",
+      "description": "Paysages dunaires emblématiques du littoral vendéen.",
+      "city": "Notre-Dame-de-Monts",
+      "latitude": 46.8342,
+      "longitude": -2.1324,
+      "officialWebsite": "https://www.vendee.fr/",
+      "imageUrl": ""
+    }
+  ]

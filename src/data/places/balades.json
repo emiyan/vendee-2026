@@ -1,0 +1,57 @@
+[
+    {
+      "id": "balade-les-remparts-vouvant",
+      "category": "Balades",
+      "name": "Circuit des Remparts",
+      "description": "Boucle familiale autour de la cité médiévale de Vouvant.",
+      "city": "Vouvant",
+      "latitude": 46.5729,
+      "longitude": -0.7698,
+      "officialWebsite": "https://www.vendee-maraispoitevin.com/randonnees-nos-chemins-de-traverse/circuit-pedestre-les-remparts-vouvant-fr-3554496/",
+      "imageUrl": ""
+    },
+    {
+      "id": "balade-le-bocage-vouvant",
+      "category": "Balades",
+      "name": "Circuit Le Bocage",
+      "description": "Balade facile entre la cité médiévale et le bocage vendéen.",
+      "city": "Vouvant",
+      "latitude": 46.5729,
+      "longitude": -0.7698,
+      "officialWebsite": "https://www.vendee-maraispoitevin.com/randonnees-nos-chemins-de-traverse/circuit-pedestre-le-bocage-vouvant-fr-3554508/",
+      "imageUrl": ""
+    },
+    {
+      "id": "balade-la-folie-vouvant",
+      "category": "Balades",
+      "name": "Circuit La Folie",
+      "description": "Randonnée reliant Vouvant à la forêt de Mervent.",
+      "city": "Vouvant",
+      "latitude": 46.5729,
+      "longitude": -0.7698,
+      "officialWebsite": "https://www.vendee-maraispoitevin.com/randonnees-nos-chemins-de-traverse/circuit-pedestre-la-folie-vouvant-fr-3138425/",
+      "imageUrl": ""
+    },
+    {
+      "id": "balade-l-oree-de-la-foret",
+      "category": "Balades",
+      "name": "Circuit L'Orée de la Forêt",
+      "description": "Boucle mêlant forêt, bocage et patrimoine de Vouvant.",
+      "city": "Vouvant",
+      "latitude": 46.5729,
+      "longitude": -0.7698,
+      "officialWebsite": "https://www.vouvant-vendee.fr/vivre-a-vouvant/balades-et-randonnees/",
+      "imageUrl": ""
+    },
+    {
+      "id": "balade-la-gasse-du-bois",
+      "category": "Balades",
+      "name": "Circuit La Gasse du Bois",
+      "description": "Parcours sportif à travers les vallées et la forêt de Mervent.",
+      "city": "Vouvant",
+      "latitude": 46.5729,
+      "longitude": -0.7698,
+      "officialWebsite": "https://www.vouvant-vendee.fr/vivre-a-vouvant/balades-et-randonnees/",
+      "imageUrl": ""
+    }
+  ]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "restaurant-les-brisants",
+    "category": "Restaurants",
+    "name": "Les Brisants",
+    "description": "Restaurant gastronomique étoilé face à l'océan.",
+    "city": "Brétignolles-sur-Mer",
+    "latitude": 46.6337,
+    "longitude": -1.8708,
+    "officialWebsite": "https://www.lesbrisants.com/",
+    "imageUrl": ""
+  },
+  {
+    "id": "restaurant-les-genets",
+    "category": "Restaurants",
+    "name": "Les Genêts",
+    "description": "Restaurant gastronomique mettant à l'honneur les produits vendéens.",
+    "city": "Brem-sur-Mer",
+    "latitude": 46.6058,
+    "longitude": -1.8308,
+    "officialWebsite": "https://www.restaurant-les-genets.fr/",
+    "imageUrl": ""
+  },
+  {
+    "id": "restaurant-la-cotriade",
+    "category": "Restaurants",
+    "name": "La Cotriade",
+    "description": "Adresse réputée pour les poissons et fruits de mer.",
+    "city": "Saint-Gilles-Croix-de-Vie",
+    "latitude": 46.6964,
+    "longitude": -1.9387,
+    "officialWebsite": "https://www.lacotriade.fr/",
+    "imageUrl": ""
+  },
+  {
+    "id": "restaurant-le-casier",
+    "category": "Restaurants",
+    "name": "Le Casier",
+    "description": "Cuisine de la mer sur le port de Saint-Gilles.",
+    "city": "Saint-Gilles-Croix-de-Vie",
+    "latitude": 46.6973,
+    "longitude": -1.9394,
+    "officialWebsite": "https://www.restaurant-lecasier.fr/",
+    "imageUrl": ""
+  },
+  {
+    "id": "restaurant-le-saint-gilles",
+    "category": "Restaurants",
+    "name": "Le Saint-Gilles",
+    "description": "Cuisine traditionnelle et spécialités de poissons.",
+    "city": "Saint-Gilles-Croix-de-Vie",
+    "latitude": 46.6978,
+    "longitude": -1.9390,
+    "officialWebsite": "https://www.payssaintgilles-tourisme.fr/preparer-son-sejour/ou-manger-boire-un-verre/tous-les-restaurants/",
+    "imageUrl": ""
+  },
+  {
+    "id": "restaurant-lardoise",
+    "category": "Restaurants",
+    "name": "L'Ardoise",
+    "description": "Cuisine maison élaborée avec des produits de saison.",
+    "city": "Saint-Gilles-Croix-de-Vie",
+    "latitude": 46.6969,
+    "longitude": -1.9395,
+    "officialWebsite": "https://www.payssaintgilles-tourisme.fr/preparer-son-sejour/ou-manger-boire-un-verre/tous-les-restaurants/",
+    "imageUrl": ""
+  },
+  {
+    "id": "restaurant-le-petit-bouchot",
+    "category": "Restaurants",
+    "name": "Le Petit Bouchot",
+    "description": "Cuisine raffinée autour des produits de la mer.",
+    "city": "Noirmoutier-en-l'Île",
+    "latitude": 47.0017,
+    "longitude": -2.2444,
+    "officialWebsite": "https://www.restaurant-noirmoutier.com/",
+    "imageUrl": ""
+  },
+  {
+    "id": "restaurant-la-marine",
+    "category": "Restaurants",
+    "name": "La Marine",
+    "description": "Table gastronomique emblématique de l'île de Noirmoutier.",
+    "city": "Noirmoutier-en-l'Île",
+    "latitude": 47.0004,
+    "longitude": -2.2476,
+    "officialWebsite": "https://www.alexandrecouillon.com/",
+    "imageUrl": ""
+  },
+  {
+    "id": "restaurant-le-fief",
+    "category": "Restaurants",
+    "name": "Le Fief",
+    "description": "Cuisine créative inspirée des produits locaux.",
+    "city": "Noirmoutier-en-l'Île",
+    "latitude": 47.0012,
+    "longitude": -2.2437,
+    "officialWebsite": "https://www.ile-noirmoutier.com/fr/savourer/restaurants",
+    "imageUrl": ""
+  },
+  {
+    "id": "restaurant-le-pois-chiche",
+    "category": "Restaurants",
+    "name": "Le Pois Chiche",
+    "description": "Cuisine bistronomique mettant à l'honneur les produits frais.",
+    "city": "Les Sables-d'Olonne",
+    "latitude": 46.4960,
+    "longitude": -1.7846,
+    "officialWebsite": "https://www.lessablesdolonne-tourisme.com/",
+    "imageUrl": ""
+  }
+]

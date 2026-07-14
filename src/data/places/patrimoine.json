@@ -1,0 +1,112 @@
+[
+    {
+      "id": "historial-de-la-vendee",
+      "category": "Patrimoine",
+      "name": "Historial de la Vendée",
+      "description": "Musée moderne retraçant 7 000 ans d'histoire vendéenne.",
+      "city": "Les Lucs-sur-Boulogne",
+      "latitude": 46.8433,
+      "longitude": -1.4942,
+      "officialWebsite": "https://nossites.vendee.fr/historial-de-vendee",
+      "imageUrl": ""
+    },
+    {
+      "id": "chateau-de-tiffauges",
+      "category": "Patrimoine",
+      "name": "Château de Tiffauges",
+      "description": "Impressionnante forteresse médiévale célèbre pour ses machines de guerre.",
+      "city": "Tiffauges",
+      "latitude": 47.0247,
+      "longitude": -1.1087,
+      "officialWebsite": "https://nossites.vendee.fr/chateau-de-tiffauges",
+      "imageUrl": ""
+    },
+    {
+      "id": "abbaye-de-maillezais",
+      "category": "Patrimoine",
+      "name": "Abbaye de Maillezais",
+      "description": "Vestiges majestueux d'une ancienne abbaye au cœur du Marais poitevin.",
+      "city": "Maillezais",
+      "latitude": 46.3728,
+      "longitude": -0.7392,
+      "officialWebsite": "https://nossites.vendee.fr/abbaye-de-maillezais",
+      "imageUrl": ""
+    },
+    {
+      "id": "abbaye-de-nieul-sur-lautise",
+      "category": "Patrimoine",
+      "name": "Abbaye de Nieul-sur-l'Autise",
+      "description": "Abbaye romane remarquablement conservée fondée au XIᵉ siècle.",
+      "city": "Nieul-sur-l'Autise",
+      "latitude": 46.4605,
+      "longitude": -0.6777,
+      "officialWebsite": "https://nossites.vendee.fr/abbaye-de-nieul-sur-lautise",
+      "imageUrl": ""
+    },
+    {
+      "id": "logis-de-la-chabotterie",
+      "category": "Patrimoine",
+      "name": "Logis de la Chabotterie",
+      "description": "Demeure historique emblématique de la Guerre de Vendée.",
+      "city": "Montréverd",
+      "latitude": 46.8816,
+      "longitude": -1.4290,
+      "officialWebsite": "https://nossites.vendee.fr/logis-de-la-chabotterie",
+      "imageUrl": ""
+    },
+    {
+      "id": "haras-de-la-vendee",
+      "category": "Patrimoine",
+      "name": "Haras de la Vendée",
+      "description": "Site historique consacré au patrimoine équestre vendéen.",
+      "city": "La Roche-sur-Yon",
+      "latitude": 46.6708,
+      "longitude": -1.4298,
+      "officialWebsite": "https://nossites.vendee.fr/haras-de-la-vendee",
+      "imageUrl": ""
+    },
+    {
+      "id": "prieure-de-grammont",
+      "category": "Patrimoine",
+      "name": "Prieuré de Grammont",
+      "description": "Ancien prieuré médiéval niché dans un écrin de verdure.",
+      "city": "Saint-Prouant",
+      "latitude": 46.6977,
+      "longitude": -0.9558,
+      "officialWebsite": "https://nossites.vendee.fr/prieure-de-grammont",
+      "imageUrl": ""
+    },
+    {
+      "id": "chateau-de-talmont",
+      "category": "Patrimoine",
+      "name": "Château de Talmont",
+      "description": "Forteresse médiévale ayant appartenu à Richard Cœur de Lion.",
+      "city": "Talmont-Saint-Hilaire",
+      "latitude": 46.4705,
+      "longitude": -1.6224,
+      "officialWebsite": "https://www.chateaudetalmont.fr/",
+      "imageUrl": ""
+    },
+    {
+      "id": "vieux-chateau-ile-dyeu",
+      "category": "Patrimoine",
+      "name": "Vieux Château",
+      "description": "Forteresse maritime emblématique de l'Île d'Yeu.",
+      "city": "L'Île-d'Yeu",
+      "latitude": 46.7058,
+      "longitude": -2.3957,
+      "officialWebsite": "https://www.ile-yeu.fr/",
+      "imageUrl": ""
+    },
+    {
+      "id": "phare-des-baleines-non",
+      "category": "Patrimoine",
+      "name": "Phare de l'Armandèche",
+      "description": "Phare remarquable dominant l'entrée du chenal des Sables-d'Olonne.",
+      "city": "Les Sables-d'Olonne",
+      "latitude": 46.4829,
+      "longitude": -1.8045,
+      "officialWebsite": "https://www.lessablesdolonne-tourisme.com/",
+      "imageUrl": ""
+    }
+  ]

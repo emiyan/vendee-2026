@@ -1,0 +1,57 @@
+[
+  {
+    "id": "plage-grande-plage-saint-gilles",
+    "category": "Plages",
+    "title": "Grande Plage",
+    "description": "Grande plage de sable fin, idéale pour la baignade et les promenades.",
+    "city": "Saint-Gilles-Croix-de-Vie",
+    "latitude": 46.691064,
+    "longitude": -1.940722,
+    "website": "https://www.payssaintgilles-tourisme.fr/loisir/grande-plage-de-st-gilles-croix-de-vie/",
+    "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/wpetourisme/4226-grande-plage-2.jpg"
+  },
+  {
+    "id": "plage-boisvinet",
+    "category": "Plages",
+    "title": "Plage de Boisvinet",
+    "description": "Plage familiale abritée, idéale pour la baignade et les activités nautiques.",
+    "city": "Saint-Gilles-Croix-de-Vie",
+    "latitude": 46.6956,
+    "longitude": -1.9537,
+    "website": "https://www.payssaintgilles-tourisme.fr/loisir/plage-de-boisvinet/",
+    "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/wpetourisme/4227-boisvinet-plage.jpg"
+  },
+  {
+    "id": "plage-pelle-a-porteau",
+    "category": "Plages",
+    "title": "Plage de la Pelle à Porteau",
+    "description": "Petite crique rocheuse appréciée pour son cadre naturel et la pêche à pied.",
+    "city": "Saint-Hilaire-de-Riez",
+    "latitude": 46.7042,
+    "longitude": -1.9606,
+    "website": "https://www.payssaintgilles-tourisme.fr/loisir/plage-de-la-pelle-a-porteau/",
+    "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/wpetourisme/4474-plage-780x560.jpg"
+  },
+  {
+    "id": "plage-des-cinq-pineaux",
+    "category": "Plages",
+    "title": "Plage des Cinq Pineaux",
+    "description": "Petite plage bordée de rochers emblématiques de la Corniche vendéenne.",
+    "city": "Saint-Hilaire-de-Riez",
+    "latitude": 46.7112,
+    "longitude": -1.973,
+    "website": "https://www.payssaintgilles-tourisme.fr/loisir/plage-des-cinq-pineaux/",
+    "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/wpetourisme/S40A5846-1200x800.jpg"
+  },
+  {
+    "id": "plage-des-bussoleries",
+    "category": "Plages",
+    "title": "Plage des Bussoleries",
+    "description": "Plage alternant sable et rochers dans un environnement préservé.",
+    "city": "Saint-Hilaire-de-Riez",
+    "latitude": 46.7148,
+    "longitude": -1.9779,
+    "website": "https://www.payssaintgilles-tourisme.fr/loisir/plage-des-bussoleries/",
+    "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/wpetourisme/sgcv-18-05-23-basse-def-53-780x560.jpg"
+  }
+]
