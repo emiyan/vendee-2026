@@ -2,6 +2,7 @@ import {
   ExternalLink,
   MapPin,
   Waves,
+  Building2,
   Trees,
   Landmark,
   UtensilsCrossed,
@@ -33,6 +34,12 @@ export default function ActivityCard({
         return {
           icon: <Waves size={14} />,
           className: "bg-blue-50 text-blue-600",
+        };
+
+      case "Villes":
+        return {
+          icon: <Building2 size={14} />,
+          className: "bg-cyan-50 text-cyan-600",
         };
 
       case "Nature":

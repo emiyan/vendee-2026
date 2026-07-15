@@ -3,6 +3,7 @@ import PlacePopup from "./PlacePopup";
 
 import {
     Waves,
+    Building2,
     Trees,
     Landmark,
     UtensilsCrossed,
@@ -60,6 +61,10 @@ function createCategoryIcon(category: string) {
     switch (category) {
         case "Plages":
             icon = <Waves size={18} color="#2563eb" />;
+            break;
+
+        case "Villes":
+            icon = <Building2 size={18} color="#0891b2" />;
             break;
 
         case "Nature":

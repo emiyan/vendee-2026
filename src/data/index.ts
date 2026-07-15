@@ -6,9 +6,11 @@ import patrimoine from "./places/patrimoine.json";
 import balades from "./places/balades.json";
 import restaurants from "./places/restaurants.json";
 import marches from "./places/marches.json";
+import villes from "./places/villes.json";
 
 export const places: Place[] = [
   ...plages,
+  ...villes,
   ...nature,
   ...patrimoine,
   ...balades,

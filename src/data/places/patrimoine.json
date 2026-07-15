@@ -1,112 +1,386 @@
 [
+  
   {
-    "id": "historial-de-la-vendee",
+    "id": "moulins-du-terrier-marteau",
     "category": "Patrimoine",
-    "title": "Historial de la Vendée",
-    "description": "Musée moderne retraçant 7 000 ans d'histoire vendéenne.",
-    "city": "Les Lucs-sur-Boulogne",
-    "latitude": 46.8433,
-    "longitude": -1.4942,
-    "website": "https://nossites.vendee.fr/historial-de-vendee",
-    "image": ""
+    "title": "Les Moulins du Terrier Marteau",
+    "description": "Ces deux moulins à vent déploient leurs ailes majestueuses sur les hauteurs de la Petite Cité de Caractère de Pouzauges.",
+    "city": "Pouzauges",
+    "latitude": 46.7919597155035,
+    "longitude": -0.8499694366885916,
+    "website": "https://www.vendee-tourisme.com/les-moulins-du-terrier-marteau/pouzauges/pcupdl085v503hgp",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/OT-Pouzauges--SBOURCIER-05092024-279.jpg?width=640&height=575&crop=1"
   },
+
+  {
+    "id": "chateau-pouzauges",
+    "category": "Patrimoine",
+    "title": "Château de Pouzauges",
+    "description": "Le château du XIème siècle est l'emblème de la Petite Cité de Caractère. Il offre un point de vue exceptionnel sur le bocage vendéen ! C'est LE lieu à découvrir avant de quitter Pouzauges.",
+    "city": "Pouzauges",
+    "latitude": 46.78513371865925,
+    "longitude": -0.83917430863658,
+    "website": "https://www.vendee-tourisme.com/chateau-de-pouzauges/pouzauges/pcupdl085v500onl",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/DSC-1448.JPG?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "moulin-des-gourmands",
+    "category": "Patrimoine",
+    "title": "Le Moulin des Gourmands",
+    "description": "Découvrez le dernier moulin à vent du Pays Saint Gilles Croix de Vie, datant de 1842, encore en activité pour y comprendre ses rouages et appréhender le savoir-faire ancestral des meunier",
+    "city": "Saint-Révérend",
+    "latitude": 46.69680385338328,
+    "longitude": -1.8257640648799345,
+    "website": "https://www.vendee-tourisme.com/chateau-de-pouzauges/pouzauges/pcupdl085v500onl",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/MoulindesGourmands-35-2.jpg?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "chemin-de-fer-de-la-vendee",
+    "category": "Patrimoine",
+    "title": "Chemin de fer de la Vendée",
+    "description": "Remontez le temps à bord d'une balade en train vapeur et/ou passez un moment authentique en déjeunant dans les voitures du Grands Express !",
+    "city": "Mortagne-sur-Sèvre",
+    "latitude": 46.99471356978964,
+    "longitude": -0.9446077208685947,
+    "website": "https://www.vendee-tourisme.com/chemin-de-fer-de-la-vendee/mortagne-sur-sevre/pcupdl085v501m9y",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/TVVdrone---21.jpeg?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "lavoire-du-sentier-des-nichoirs",
+    "category": "Patrimoine",
+    "title": "Lavoir du Sentier des Nichoirs",
+    "description": "Ce petit lavoir se situe sur la partie sud du sentier des Nichoirs à Beaulieu-sous-la-Roche, le long de l'étape n°8 du GR364 qui mène aux Sables d'Olonne.",
+    "city": "Beaulieu-Sous-La-Roche",
+    "latitude": 46.67622646866679,
+    "longitude": -1.6161787512097696,
+    "website": "https://www.vendee-tourisme.com/lavoir-du-sentier-des-nichoirs/beaulieu-sous-la-roche/pcupdl085v51spmy",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/pays-des-achards--sbourcier-05-2.jpg?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "la-ciste-des-cous",
+    "category": "Patrimoine",
+    "title": "La Ciste des Cous",
+    "description": "Ce petit lavoir se situe sur la partie sud du sentier des Nichoirs à Beaulieu-sous-la-Roche, le long de l'étape n°8 du GR364 qui mène aux Sables d'Olonne.",
+    "city": "Bazoges-en-Pareds",
+    "latitude": 46.658745026415794,
+    "longitude": -0.9341187062225587,
+    "website": "https://www.vendee-tourisme.com/la-ciste-des-cous/bazoges-en-pareds/pcupdl085v51d9mc",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/Photo-A--rienne-n1-Ciste-des-Cous.jpg?width=640&height=575&crop=1"
+  },
+
   {
     "id": "chateau-de-tiffauges",
     "category": "Patrimoine",
     "title": "Château de Tiffauges",
-    "description": "Impressionnante forteresse médiévale célèbre pour ses machines de guerre.",
+    "description": "Revivez l'histoire de la plus grande forteresse médiévale de l'Ouest à Tiffauges en Vendée Vallée, à 20 min du Puy du Fou et 25 min de la vallée de Clisson.",
     "city": "Tiffauges",
-    "latitude": 47.0247,
-    "longitude": -1.1087,
-    "website": "https://nossites.vendee.fr/chateau-de-tiffauges",
-    "image": ""
+    "latitude": 47.016813826018925,
+    "longitude": -1.1146094334505579,
+    "website": "https://www.vendee-tourisme.com/le-chateau-de-tiffauges/tiffauges/pcupdl085v501iex",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/Chateau-Tiffauges-entree.jpg?width=640&height=575&crop=1"
   },
+
   {
-    "id": "abbaye-de-maillezais",
+    "id": "chateau-d-apremont",
     "category": "Patrimoine",
-    "title": "Abbaye de Maillezais",
+    "title": "Château d'Apremont",
+    "description": "Château Renaissance à Apremont, Petite Cité de Caractère à 25 minutes du littoral vendéen.",
+    "city": "Apremont",
+    "latitude": 46.74975367938661,
+    "longitude": -1.741468135113488,
+    "website": "https://www.vendee-tourisme.com/chateau-dapremont/apremont/pcupdl053v5049lt",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/Apremont-Vendee-tourisme.jpg?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "parc-du-chateau-de-la-flocelliere",
+    "category": "Patrimoine",
+    "title": "Parc du Château de la Flocellière",
+    "description": "Situé à la Flocellière en Vendée, à 15 min du Puy du Fou, ce rare château habité depuis plus de 900 ans offre aux visiteurs les différents aspects architecturaux.",
+    "city": "Sèvremont",
+    "latitude": 46.83517837445912,
+    "longitude": -0.8615960219476734,
+    "website": "https://www.vendee-tourisme.com/parc-du-chateau-de-la-flocelliere/sevremont/pcupdl085v503htj",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/jardin-medieval.jpg?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "chateau-de-la-greve",
+    "category": "Patrimoine",
+    "title": "Château de la Grève",
+    "description": "Château datant du XIIème, qui prend de l’importance au XVIème où il connaît ses plus grands faits d’armes, avant de devenir ferme agricole aux XIXème et XXème siècles.",
+    "city": "Saint-Martin-des-Noyers",
+    "latitude": 46.715707354728586,
+    "longitude": -1.210723005920825,
+    "website": "https://www.vendee-tourisme.com/chateau-de-la-greve/saint-martin-des-noyers/pcupdl085v500omz",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/chateau-de-la-greve-saint-martin-des-noyers-85-pcu-2.jpg?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "chateau-de-la-bruniere",
+    "category": "Patrimoine",
+    "title": "Château de la Brunière",
+    "description": "Le château est classé au titre des monuments historiques depuis 1984 Privé mais ouvert pour les journées du patrimoine.",
+    "city": "Le Givre",
+    "latitude": 46.46063975401272,
+    "longitude": -1.3980418356582034,
+    "website": "https://www.vendee-tourisme.com/chateau-de-la-bruniere/le-givre/pcupdl085v50vlfg",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/Le-Givre---Chateaude-la-Bruniere--BT-Moutiers.jpg?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "chateau-de-commequiers",
+    "category": "Patrimoine",
+    "title": "Château de Commequiers",
+    "description": "À l'entrée de la commune, les 8 tours du château féodal renferment l'histoire du lieu.",
+    "city": "Commequiers",
+    "latitude": 46.766463319210494,
+    "longitude": -1.8314089075956632,
+    "website": "https://www.vendee-tourisme.com/chateau-de-commequiers/commequiers/pcupdl0850155048",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/169401-stgilles14-mg-3094.jpg?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "chateau-de-mortagne",
+    "category": "Patrimoine",
+    "title": "Château de Mortagne",
+    "description": "Découvrez les remparts médiévaux, la tour de l'éperon, le manoir, la tour du trésor...",
+    "city": "Mortagne-sur-Sèvre",
+    "latitude": 46.99410368368776,
+    "longitude": -0.9584272959795914,
+    "website": "https://www.vendee-tourisme.com/chateau-de-mortagne-site-medieval/mortagne-sur-sevre/pcupdl085v51d8ok",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/Manoir-de-Mortagne.jpg?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "abbaye-saint-pierre-de-maillezais",
+    "category": "Patrimoine",
+    "title": "Abbaye Saint Pierre de Maillezais",
     "description": "Vestiges majestueux d'une ancienne abbaye au cœur du Marais poitevin.",
     "city": "Maillezais",
-    "latitude": 46.3728,
-    "longitude": -0.7392,
-    "website": "https://nossites.vendee.fr/abbaye-de-maillezais",
-    "image": ""
+    "latitude": 46.37375861227717,
+    "longitude": -0.7460817192039731,
+    "website": "https://www.vendee-tourisme.com/abbaye-saint-pierre-de-maillezais/maillezais/pcupdl085v500wtg",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/Abbaye-Maillezais-0546.jpg?width=640&height=575&crop=1"
   },
+
   {
     "id": "abbaye-de-nieul-sur-lautise",
     "category": "Patrimoine",
     "title": "Abbaye de Nieul-sur-l'Autise",
     "description": "Abbaye romane remarquablement conservée fondée au XIᵉ siècle.",
     "city": "Nieul-sur-l'Autise",
-    "latitude": 46.4605,
-    "longitude": -0.6777,
-    "website": "https://nossites.vendee.fr/abbaye-de-nieul-sur-lautise",
-    "image": ""
+    "latitude": 46.42220064979447,
+    "longitude": -0.6809578060573858,
+    "website": "https://www.vendee-tourisme.com/abbaye-de-nieul-sur-lautise/rives-dautise/pcupdl085v500wud",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/Le-cloitre-Nieul-85-.jpg?width=640&height=575&crop=1"
   },
+
   {
     "id": "logis-de-la-chabotterie",
     "category": "Patrimoine",
     "title": "Logis de la Chabotterie",
     "description": "Demeure historique emblématique de la Guerre de Vendée.",
     "city": "Montréverd",
-    "latitude": 46.8816,
-    "longitude": -1.429,
-    "website": "https://nossites.vendee.fr/logis-de-la-chabotterie",
-    "image": ""
+    "latitude": 46.87981094656166,
+    "longitude": -1.4066742630872175,
+    "website": "https://www.vendee-tourisme.com/le-logis-de-la-chabotterie/montreverd/pcupdl085v500r74",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/Logis-de-la-chabotterie-saint-sulpice-le-verdon-85-pcu-01.jpg?width=640&height=575&crop=1"
   },
-  {
-    "id": "haras-de-la-vendee",
-    "category": "Patrimoine",
-    "title": "Haras de la Vendée",
-    "description": "Site historique consacré au patrimoine équestre vendéen.",
-    "city": "La Roche-sur-Yon",
-    "latitude": 46.6708,
-    "longitude": -1.4298,
-    "website": "https://nossites.vendee.fr/haras-de-la-vendee",
-    "image": ""
-  },
+
   {
     "id": "prieure-de-grammont",
     "category": "Patrimoine",
     "title": "Prieuré de Grammont",
     "description": "Ancien prieuré médiéval niché dans un écrin de verdure.",
     "city": "Saint-Prouant",
-    "latitude": 46.6977,
-    "longitude": -0.9558,
-    "website": "https://nossites.vendee.fr/prieure-de-grammont",
-    "image": ""
+    "latitude": 46.7487136567129,
+    "longitude": -0.9849968006232479,
+    "website": "https://www.vendee-tourisme.com/le-prieure-de-grammont/saint-prouant/pcupdl085v501ml9",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/Prieure-Grammont-53.jpg?width=640&height=575&crop=1"
   },
+
+  {
+    "id": "prieure-saint-nicolas",
+    "category": "Patrimoine",
+    "title": "Prieuré Saint-Nicolas et mémorial des Péris en mer",
+    "description": "Ancien prieuré médiéval niché dans un écrin de verdure.",
+    "city": "Les Sables-d'Olonne",
+    "latitude": 46.56437375637325,
+    "longitude": -1.792275861565936,
+    "website": "https://www.vendee-tourisme.com/prieure-saint-nicolas-et-memorial-des-peris-en-mer/les-sables-dolonne/pcupdl085v50h3jr",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/2024-LS-PrieureSaintNicolas-Drone---ALamoureux.jpg?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "chateau-d-ardelay",
+    "category": "Patrimoine",
+    "title": "Château d'Ardelay",
+    "description": "L'Art au coeur du patrimoine : le Château d'Ardelay propose des expositions temporaires plusieurs fois par an autour des arts visuels et du patrimoine.",
+    "city": "Les Herbiers",
+    "latitude": 46.85336653329235,
+    "longitude": -1.005378363088005,
+    "website": "https://www.vendee-tourisme.com/chateau-dardelay/les-herbiers/pcupdl085v50o2yg",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/20240812-1.jpg?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "chateau-de-bessay",
+    "category": "Patrimoine",
+    "title": "Château de Bessay",
+    "description": "Le château de Bessay, monument privé classé, ouvre ses portes pour que vous puissiez visiter cette demeure à l'architecture Renaissance d'une rare qualité, aujourd'hui composée de deux tours.",
+    "city": "Bessay",
+    "latitude": 46.53832622426138,
+    "longitude": -1.1530766797698948,
+    "website": "https://www.vendee-tourisme.com/chateau-de-bessay/bessay/pcupdl085v50fplf",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/401.JPG?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "chateau-de-saint-mesmin",
+    "category": "Patrimoine",
+    "title": "Château de Saint-Mesmin",
+    "description": "Le château de Bessay, monument privé classé, ouvre ses portes pour que vous puissiez visiter cette demeure à l'architecture Renaissance d'une rare qualité, aujourd'hui composée de deux tours.",
+    "city": "Saint-Mesmin",
+    "latitude": 46.79972954229507,
+    "longitude": -0.7177135331272375,
+    "website": "https://www.vendee-tourisme.com/chateau-de-saint-mesmin/saint-mesmin/pcupdl085v501iju",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/chateau-saint-mesmin-Rassemblement-Europeen-26.04.2015--2-.JPG?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "abbaye-de-l-ile-chauvet",
+    "category": "Patrimoine",
+    "title": "Abbaye de l'Île Chauvet",
+    "description": "En 1130, les bénédictins font construire l’abbaye grâce aux seigneurs de La Garnache.",
+    "city": "Bois-de-Céné",
+    "latitude": 46.93341096604584,
+    "longitude": -1.9089325933937673,
+    "website": "https://www.vendee-tourisme.com/abbaye-de-lile-chauvet/bois-de-cene/pcupdl085v51imdv",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/2022-Abbaye-Ile-Chauvet-SimonBourcier--6-.jpg?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "chateau-de-terre-neuve",
+    "category": "Patrimoine",
+    "title": "Château de Terre-Neuve",
+    "description": "Château de Terre Neuve, splendide ouvrage du XVIè siècle, au cœur de son grand parc, en surplomb de la ville d'art et d'histoire de Fontenay-le-Comte.",
+    "city": "Fontenay-le-Comte",
+    "latitude": 46.46288435806739,
+    "longitude": -0.814560893797646,
+    "website": "https://www.vendee-tourisme.com/chateau-de-terre-neuve/fontenay-le-comte/pcupdl085v5033jf",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/ChateauTerre-Neuve1.jpg?width=640&height=575&crop=1"
+  },
+
   {
     "id": "chateau-de-talmont",
     "category": "Patrimoine",
     "title": "Château de Talmont",
     "description": "Forteresse médiévale ayant appartenu à Richard Cœur de Lion.",
     "city": "Talmont-Saint-Hilaire",
-    "latitude": 46.4705,
-    "longitude": -1.6224,
-    "website": "https://www.chateaudetalmont.fr/",
-    "image": ""
+    "latitude": 46.4676797049113,
+    "longitude": -1.618472050186492,
+    "website": "https://www.vendee-tourisme.com/chateau-de-talmont/talmont-saint-hilaire/pcupdl085v502ta5",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/Capture-d-ecran-2026-03-18-141721.png?width=640&height=575&crop=1"
   },
+
   {
     "id": "vieux-chateau-ile-dyeu",
     "category": "Patrimoine",
-    "title": "Vieux Château",
-    "description": "Forteresse maritime emblématique de l'Île d'Yeu.",
+    "title": "Le Vieux Château",
+    "description": "Forteresse dressée sur un éperon rocheux entouré par la mer, le Vieux Château, construit à l’aube de la Guerre de Cent Ans, dut résister aux assauts qui ont jalonné son histoire.",
     "city": "L'Île-d'Yeu",
-    "latitude": 46.7058,
-    "longitude": -2.3957,
-    "website": "https://www.ile-yeu.fr/",
-    "image": ""
+    "latitude": 46.69975876122762,
+    "longitude": -2.3684575774863452,
+    "website": "https://www.ile-yeu.fr/que-faire-a-l-ile-d-yeu/se-divertir/activites-sur-l-ile/le-vieux-chateau-5365860",
+    "image": "https://api.cloudly.space/resize/clip/1900/1080/75/aHR0cHM6Ly9jZHQ4NS5tZWRpYS50b3VyaW5zb2Z0LmV1L3VwbG9hZC8yNS0tLUxlLXZpZXV4LWNoYXRlYXUtLS1PVC1JbGUtZC1ZZXUtLTAxLTMuanBn/image.jpg"
   },
+
   {
-    "id": "phare-des-baleines-non",
+    "id": "le-sanctuaire-de-la-salette",
+    "category": "Patrimoine",
+    "title": "Le Sanctuaire de la Salette",
+    "description": "Situé à 30 min de La-Roche-sur-Yon et 35 min du Puy du Fou, le Sanctuaire de la Salette, site culturel du XIXe siècle, représente les apparitions de la Vierge aux enfants de La Salette.",
+    "city": "La Rabatelière",
+    "latitude": 46.69975876122762,
+    "longitude": -2.3684575774863452,
+    "website": "https://www.vendee-tourisme.com/le-sanctuaire-de-la-salette/la-rabateliere/pcupdl085v5018nn",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/Patrimoine-culturel-Le-sanctuaire-de-La-Salette-La-Rabateliere-85-1.jpg?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "abbaye-royale",
+    "category": "Patrimoine",
+    "title": "Abbaye Royale",
+    "description": "11 siècles d'histoire à ciel ouvert. Sur visite guidée uniquement, pour découvrir les jardins, le chauffoir, la salle capitulaire et le réfectoire.",
+    "city": "Saint-Michel-en-L'Herme",
+    "latitude": 46.35319245185301,
+    "longitude": -1.2502521797911768,
+    "website": "https://www.vendee-tourisme.com/abbaye-royale/saint-michel-en-lherm/pcupdl085v500abt",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/Abbaye-SMEH-KG--6--2.jpg?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "abbaye-sainte-marie-du-Gue-de-trizay",
+    "category": "Patrimoine",
+    "title": "Abbaye Sainte Marie du Gué de Trizay",
+    "description": "11 siècles d'histoire à ciel ouvert. Sur visite guidée uniquement, pour découvrir les jardins, le chauffoir, la salle capitulaire et le réfectoire.",
+    "city": "Bournezeau",
+    "latitude": 46.58905706039562,
+    "longitude": -1.1137521022330237,
+    "website": "https://www.vendee-tourisme.com/abbaye-sainte-marie-du-gue-de-trizay/bournezeau/pcupdl085v51f2c1",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/2026-abbaye-vu-du-cloitre.png?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "chateau-du-boistissandeau",
+    "category": "Patrimoine",
+    "title": "Le Château du Boistissandeau",
+    "description": "Le Château du Boistissandeau, situé aux Herbiers est un important logis de la fin de la Renaissance inscrit à l'inventaire Supplémentaire des Monuments Historiques, pour ses façades, ses toitures et ses jardins à la Française.",
+    "city": "Les Herbiers",
+    "latitude": 46.83036267228443,
+    "longitude": -0.994926550715579,
+    "website": "https://www.vendee-tourisme.com/le-chateau-du-boistissandeau-les-herbiers/les-herbiers/pcupdl085v52409l",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/Boistissandeau-Avril2025--PaysdesHerbiers-30-.JPG?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "chateau-de-l-etenduere",
+    "category": "Patrimoine",
+    "title": "Le Château de l'Etenduère",
+    "description": "Le Château de l'Étenduère, situé aux Herbiers, se découvre actuellement par un circuit patrimonial en accès libre. Ce fût l'un des plus beaux édifices seigneuriaux de la région entre le XVIIème et XVIIIème siècle.",
+    "city": "Les Herbiers",
+    "latitude": 46.86400358490885,
+    "longitude": -1.0256816518883907,
+    "website": "https://www.vendee-tourisme.com/chateau-de-letenduere-les-herbiers/les-herbiers/pcupdl085v5240ch",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/l-Etenduere-042025-estellesebalade-OTLesHerbiers--7-.jpg?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "chateau-de-sigournais",
+    "category": "Patrimoine",
+    "title": "Le Château de Sigournais",
+    "description": "Château féodal : donjon-porte, enceinte fortifiée, tours, chemin de ronde couvert. Armures et mannequins restituent l’ambiance de la fin du XVème. Collection de blasons territoriaux.",
+    "city": "Sigournais",
+    "latitude": 46.70750598383006,
+    "longitude": -0.9854461643677812,
+    "website": "https://www.vendee-tourisme.com/le-chateau-de-sigournais/sigournais/pcupdl085v500onz",
+    "image": "https://cdt85.media.tourinsoft.eu/upload/Communaute-de-communes-Pays-Chantonnay-Mehdi-media-30.jpeg?width=640&height=575&crop=1"
+  },
+
+  {
+    "id": "phare-de-l-armandeche",
     "category": "Patrimoine",
     "title": "Phare de l'Armandèche",
     "description": "Phare remarquable dominant l'entrée du chenal des Sables-d'Olonne.",
     "city": "Les Sables-d'Olonne",
-    "latitude": 46.4829,
-    "longitude": -1.8045,
-    "website": "https://www.lessablesdolonne-tourisme.com/",
-    "image": ""
+    "latitude": 46.49000217571715,
+    "longitude": -1.8048362090179177,
+    "website": "https://www.lessablesdolonne.fr/plages/le-phare-de-larmandeche-pcupdl085v50h3jj/",
+    "image": "https://www.lessablesdolonne.fr/wp-content/uploads/sit/c52a94710b68f55dca6769212643f622-2024-LS-PharedelArmandeche---ALamoureux-470x300.jpg"
   }
 ]

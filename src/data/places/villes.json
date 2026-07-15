@@ -1,0 +1,233 @@
+[
+  {
+    "id": "saint-gilles-croix-de-vie",
+    "category": "Villes",
+    "title": "Saint-Gilles-Croix-de-Vie",
+    "description": "Station balnéaire emblématique avec son port de pêche, ses plages et ses quais animés.",
+    "city": "Saint-Gilles-Croix-de-Vie",
+    "latitude": 46.6969,
+    "longitude": -1.9386,
+    "website": "https://www.vendee-tourisme.com/top-destinations/saint-gilles-croix-de-vie",
+    "image": "https://www.vendee-tourisme.com/sites/www.vendee-tourisme.com/files/styles/top_destinations_entete/public/thumbnails/image/grande_plage_saint_gilles_croix_de_vie_1920x620.jpg?itok=DpIG_YOq"
+  },
+  {
+    "id": "saint-hilaire-de-riez",
+    "category": "Villes",
+    "title": "Saint-Hilaire-de-Riez",
+    "description": "Station balnéaire réputée pour la Corniche Vendéenne, ses plages et ses pistes cyclables.",
+    "city": "Saint-Hilaire-de-Riez",
+    "latitude": 46.7215,
+    "longitude": -1.9475,
+    "website": "https://www.payssaintgilles-tourisme.fr/destination/nos-destinations/saint-hilaire-de-riez/",
+    "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/2021/01/pineaux-2-1920x900.jpg"
+  },
+  {
+    "id": "bretignolles-sur-mer",
+    "category": "Villes",
+    "title": "Brétignolles-sur-Mer",
+    "description": "Charmante station balnéaire appréciée des surfeurs et des familles.",
+    "city": "Brétignolles-sur-Mer",
+    "latitude": 46.6271,
+    "longitude": -1.8664,
+    "website": "https://www.payssaintgilles-tourisme.fr/destination/nos-destinations/bretignolles-sur-mer/",
+    "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/2021/01/surf-plage-dunes-2000x900.jpg"
+  },
+  {
+    "id": "brem-sur-mer",
+    "category": "Villes",
+    "title": "Brem-sur-Mer",
+    "description": "Village entre océan et vignoble réputé pour son terroir.",
+    "city": "Brem-sur-Mer",
+    "latitude": 46.6053,
+    "longitude": -1.8304,
+    "website": "https://www.payssaintgilles-tourisme.fr/destination/nos-destinations/brem-sur-mer/",
+    "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/2021/01/marais-brem-2000x900.jpg"
+  },
+  {
+    "id": "saint-jean-de-monts",
+    "category": "Villes",
+    "title": "Saint-Jean-de-Monts",
+    "description": "Grande station balnéaire avec plage, forêt domaniale et animations estivales.",
+    "city": "Saint-Jean-de-Monts",
+    "latitude": 46.7934,
+    "longitude": -2.0607,
+    "website": "https://paysdesaintjeandemonts.fr/",
+    "image": "https://paysdesaintjeandemonts.fr/app/uploads/iris-images/10628/pecherie-labarredemonts-florianperoud-1-1920x1080-f50_50.webp"
+  },
+  {
+    "id": "noirmoutier-en-lile",
+    "category": "Villes",
+    "title": "Noirmoutier-en-l'Île",
+    "description": "Village incontournable de l'île de Noirmoutier avec son château et son port.",
+    "city": "Noirmoutier-en-l'Île",
+    "latitude": 47.0008,
+    "longitude": -2.2442,
+    "website": "https://www.ile-noirmoutier.com/fr",
+    "image": "https://www.okvoyage.com/wp-content/uploads/2021/02/que-faire-sur-lile-de-noirmoutier.jpg"
+  },
+  {
+    "id": "barbatre",
+    "category": "Villes",
+    "title": "Barbâtre",
+    "description": "Porte d'entrée de l'île de Noirmoutier via le Passage du Gois.",
+    "city": "Barbâtre",
+    "latitude": 46.9406,
+    "longitude": -2.1766,
+    "website": "https://www.barbatre.fr/accueil/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Barb%C3%A2tre%2C_%C3%A9glise%2C_cimeti%C3%A8re.jpg/330px-Barb%C3%A2tre%2C_%C3%A9glise%2C_cimeti%C3%A8re.jpg"
+  },
+  {
+    "id": "lepine",
+    "category": "Villes",
+    "title": "L'Épine",
+    "description": "Village paisible réputé pour ses marais salants et ses plages.",
+    "city": "L'Épine",
+    "latitude": 47.0143,
+    "longitude": -2.2654,
+    "website": "https://www.lepine-iledenoirmoutier.fr/",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Vzn3md0FF-jgl1B2QV8xGVs-OUGPzScuRx86Wd4w0Q&s=10"
+  },
+  {
+    "id": "les-sables-dolonne",
+    "category": "Villes",
+    "title": "Les Sables-d'Olonne",
+    "description": "Station balnéaire majeure de Vendée et ville du Vendée Globe.",
+    "city": "Les Sables-d'Olonne",
+    "latitude": 46.4969,
+    "longitude": -1.7831,
+    "website": "https://www.lessablesdolonne-tourisme.com/",
+    "image": "https://www.lessablesdolonne.fr/wp-content/uploads/2024/06/2023-amartineau-sentiers-velodyssee-24-1600x900.jpg"
+  },
+  {
+    "id": "talmont-saint-hilaire",
+    "category": "Villes",
+    "title": "Talmont-Saint-Hilaire",
+    "description": "Ville historique dominée par son château médiéval.",
+    "city": "Talmont-Saint-Hilaire",
+    "latitude": 46.4713,
+    "longitude": -1.6228,
+    "website": "https://www.vendee-tourisme.com/top-destinations/talmont-saint-hilaire",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbT5hAyO5cb1CRcQzFuehewB4kYOHjufc2CfTOfSloSQ&s=10"
+  },
+  {
+    "id": "jard-sur-mer",
+    "category": "Villes",
+    "title": "Jard-sur-Mer",
+    "description": "Petit port de plaisance et station balnéaire familiale.",
+    "city": "Jard-sur-Mer",
+    "latitude": 46.4172,
+    "longitude": -1.5762,
+    "website": "https://www.destination-vendeegrandlittoral.com/explorer/destination/jard-sur-mer/",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6fhCzEs7Ww-5C24ydF5Eb7_ZBgnVmNI9BhrQ-cGFmw&s=10"
+  },
+  {
+    "id": "la-tranche-sur-mer",
+    "category": "Villes",
+    "title": "La Tranche-sur-Mer",
+    "description": "Station réputée pour ses longues plages et les sports nautiques.",
+    "city": "La Tranche-sur-Mer",
+    "latitude": 46.3438,
+    "longitude": -1.4377,
+    "website": "https://www.latranchesurmer-tourisme.fr/",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQexBtjXeO6jfT3K5zRfredGGdoWipKk8x9G1rPEpXPxQ&s=10"
+  },
+  {
+    "id": "vouvant",
+    "category": "Villes",
+    "title": "Vouvant",
+    "description": "Unique village vendéen classé parmi Les Plus Beaux Villages de France.",
+    "city": "Vouvant",
+    "latitude": 46.5728,
+    "longitude": -0.7698,
+    "website": "https://www.les-plus-beaux-villages-de-france.org/fr/nos-villages/vouvant/",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0zLN2DIJizMBrqRl-ynQS9MTPayZQSha1rhpAY5ELFg&s=10"
+  },
+  {
+    "id": "apremont",
+    "category": "Villes",
+    "title": "Apremont",
+    "description": "Village de caractère dominé par son château Renaissance.",
+    "city": "Apremont",
+    "latitude": 46.7465,
+    "longitude": -1.7402,
+    "website": "https://www.petitescitesdecaractere.com/cites/apremont/",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCgMKt7JNmdpsKmhIgL__9axVWxUqO6nTKL9SPLkDbWg&s=10"
+  },
+  {
+    "id": "challans",
+    "category": "Villes",
+    "title": "Challans",
+    "description": "Ville commerçante réputée pour ses marchés et sa gastronomie.",
+    "city": "Challans",
+    "latitude": 46.8435,
+    "longitude": -1.8781,
+    "website": "https://www.vendee-tourisme.com/challans-ville-entre-traditions-et-modernite-guide-touristique-complet",
+    "image": "https://www.vendee-tourisme.com/sites/www.vendee-tourisme.com/files/styles/paragraphes_media_50/public/thumbnails/image/autrefoischallans2_challans_570x430.jpg?itok=Euffxg48"
+  },
+  {
+    "id": "sallertaine",
+    "category": "Villes",
+    "title": "Sallertaine",
+    "description": "Village d'artisans d'art au cœur du Marais Breton Vendéen.",
+    "city": "Sallertaine",
+    "latitude": 46.8613,
+    "longitude": -1.9556,
+    "website": "https://www.vendee-tourisme.com/inspirez-moi/culture-et-patrimoine/sallertaine-ville-et-metiers-dart",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWMosU361j9x-AcDw8g5AG61XZme5jRe4Z-cT-co3iSg&s=10"
+  },
+  {
+    "id": "commequiers",
+    "category": "Villes",
+    "title": "Commequiers",
+    "description": "Petit village connu pour les ruines de son château médiéval.",
+    "city": "Commequiers",
+    "latitude": 46.7607,
+    "longitude": -1.8372,
+    "website": "https://www.payssaintgilles-tourisme.fr/destination/nos-destinations/commequiers/",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTETSJz762Lr2J9TPNKYFiwvbQ_btbQ9XSqF5YgnP22pQ&s=10"
+  },
+  {
+    "id": "saint-reverend",
+    "category": "Villes",
+    "title": "Saint-Révérend",
+    "description": "Village paisible connu pour son moulin restauré.",
+    "city": "Saint-Révérend",
+    "latitude": 46.6994,
+    "longitude": -1.8282,
+    "website": "https://www.payssaintgilles-tourisme.fr/destination/nos-destinations/saint-reverend/",
+    "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/2021/01/lac-guegorand-1-1-1200x704.jpg"
+  },
+  {
+    "id": "la-roche-sur-yon",
+    "category": "Villes",
+    "title": "La Roche-sur-Yon",
+    "description": "Préfecture de la Vendée fondée par Napoléon Ier.",
+    "city": "La Roche-sur-Yon",
+    "latitude": 46.6705,
+    "longitude": -1.4266,
+    "website": "https://www.vendee-tourisme.com/top-destinations/la-roche-sur-yon",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlGCNTDFFIex1z5dhCsttJiGKKWFpb4aihYpTptW2K6w&s=10"
+  },
+  {
+    "id": "mortagne-sur-sevres",
+    "category": "Villes",
+    "title": "Mortagne-sur-Sèvre",
+    "description": "Mortagne-sur Sèvre, ancienne cité médiévale, est un lieu chargé d’histoire jusqu'à nos jours...",
+    "city": "Mortagne-sur-Sèvre",
+    "latitude": 46.99710846505858,
+    "longitude": -0.9447991989585174,
+    "website": "https://www.vendee-tourisme.com/mortagne-sur-sevre-petite-cite-de-caractere/mortagne-sur-sevre/pcupdl085v51iedj-0",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlGCNTDFFIex1z5dhCsttJiGKKWFpb4aihYpTptW2K6w&s=10"
+  },
+  {
+    "id": "maillezais",
+    "category": "Villes",
+    "title": "Maillezais",
+    "description": "Village du Marais Poitevin célèbre pour son abbaye.",
+    "city": "Maillezais",
+    "latitude": 46.3731,
+    "longitude": -0.7395,
+    "website": "https://www.vendee-tourisme.com/office-de-tourisme-vendee-marais-poitevin-maillezais/maillezais/orgpdl085v500m7z",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh4IRQIknjqSohIxDfCATfaXSCFzTwijWyJl99Ea-I5A&s"
+  }
+]

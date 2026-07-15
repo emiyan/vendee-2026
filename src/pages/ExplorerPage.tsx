@@ -16,6 +16,7 @@ import ResultCount from "../components/explorer/ResultCount";
 import ActivityCard from "../components/explorer/ActivityCard";
 import SegmentedControl from "../components/ui/SegmentedControl";
 import ExplorerMap from "../components/map/ExplorerMap";
+import { Building2 } from "lucide-react";
 
 import { places } from "../data";
 import { home } from "../data/home";
@@ -75,6 +76,13 @@ export default function ExplorerPage() {
             label="Toutes"
             active={selectedCategory === "Toutes"}
             onClick={() => setSelectedCategory("Toutes")}
+          />
+
+          <CategoryChip
+            icon={Building2}
+            label="Villes"
+            active={selectedCategory === "Villes"}
+            onClick={() => setSelectedCategory("Villes")}
           />
 
           <CategoryChip
