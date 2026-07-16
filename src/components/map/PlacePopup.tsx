@@ -2,6 +2,12 @@ import {
   ExternalLink,
   MapPin,
   Car,
+  Waves,
+  Building2,
+  Trees,
+  Landmark,
+  UtensilsCrossed,
+  ShoppingBag,
 } from "lucide-react";
 
 import { formatDuration } from "../../lib/formatDuration";
@@ -15,6 +21,54 @@ interface PlacePopupProps {
 export default function PlacePopup({
   place,
 }: PlacePopupProps) {
+  function getCategory() {
+    switch (place.category) {
+      case "Plages":
+        return {
+          icon: <Waves size={14} />,
+          className: "bg-blue-50 text-blue-600",
+        };
+
+      case "Villes":
+        return {
+          icon: <Building2 size={14} />,
+          className: "bg-cyan-50 text-cyan-600",
+        };
+
+      case "Nature":
+        return {
+          icon: <Trees size={14} />,
+          className: "bg-green-50 text-green-600",
+        };
+
+      case "Patrimoine":
+        return {
+          icon: <Landmark size={14} />,
+          className: "bg-amber-50 text-amber-600",
+        };
+
+      case "Restaurants":
+        return {
+          icon: <UtensilsCrossed size={14} />,
+          className: "bg-red-50 text-red-600",
+        };
+
+      case "Marchés":
+        return {
+          icon: <ShoppingBag size={14} />,
+          className: "bg-violet-50 text-violet-600",
+        };
+
+      default:
+        return {
+          icon: null,
+          className: "bg-slate-100 text-slate-600",
+        };
+    }
+  }
+
+  const categoryStyle = getCategory();
+
   return (
     <div className="w-[280px]">
       <img
@@ -24,7 +78,10 @@ export default function PlacePopup({
       />
 
       <div className="mt-3">
-        <span className="inline-flex rounded-md bg-blue-50 px-2 py-0.5 text-xs font-medium text-[var(--color-primary)]">
+        <span
+          className={`inline-flex items-center gap-1 rounded-md px-2 py-1 text-xs font-medium ${categoryStyle.className}`}
+        >
+          {categoryStyle.icon}
           {place.category}
         </span>
 
@@ -39,13 +96,12 @@ export default function PlacePopup({
 
         {place.distance !== undefined &&
           place.duration !== undefined && (
-            <div className="mt-2 flex items-center gap-1 font-medium text-[var(--color-primary)]">
+            <p className="mt-2 flex items-center gap-1 text-sm font-semibold text-[var(--color-text)]">
               <Car size={15} />
               <span>
-                {place.distance.toFixed(0)} km •{" "}
-                {formatDuration(place.duration)}
+                {place.distance.toFixed(0)} km • {formatDuration(place.duration)}
               </span>
-            </div>
+            </p>
           )}
 
         <p className="mt-2 line-clamp-2 text-sm text-slate-600">
