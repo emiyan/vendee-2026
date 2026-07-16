@@ -119,7 +119,7 @@ export default function ActivityCard({
             </p>
           )}
 
-          <p className="mt-2 text-sm leading-5 text-[var(--color-text-secondary)]">
+          <p className="mt-2 line-clamp-2 text-sm leading-5 text-[var(--color-text-secondary)]">
             {description}
           </p>
         </div>
