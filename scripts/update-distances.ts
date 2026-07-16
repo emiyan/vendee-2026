@@ -149,16 +149,25 @@ async function main() {
         modified = true;
       }
 
-      if (modified) {
-        await fs.writeFile(
-          filePath,
-          JSON.stringify(places, null, 2),
-          "utf8"
-        );
+      // Trie toujours les lieux par distance croissante
+      places.sort((a, b) => {
+        if (a.distance === undefined) return Number.POSITIVE_INFINITY;
+        if (b.distance === undefined) return Number.NEGATIVE_INFINITY;
 
+        return a.distance - b.distance;
+      });
+
+      // Réécrit toujours le fichier
+      await fs.writeFile(
+        filePath,
+        JSON.stringify(places, null, 2),
+        "utf8"
+      );
+
+      if (modified) {
         console.log("💾 Fichier mis à jour");
       } else {
-        console.log("Aucune modification");
+        console.log("📋 Fichier trié (aucune distance modifiée)");
       }
     } catch (error) {
       errors++;

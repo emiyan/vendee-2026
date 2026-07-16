@@ -1,18 +1,5 @@
 [
   {
-    "id": "plage-grande-plage-saint-gilles",
-    "category": "Plages",
-    "title": "Grande Plage",
-    "description": "Grande plage de sable fin, idéale pour la baignade et les promenades.",
-    "city": "Saint-Gilles-Croix-de-Vie",
-    "latitude": 46.691064,
-    "longitude": -1.940722,
-    "website": "https://www.payssaintgilles-tourisme.fr/loisir/grande-plage-de-st-gilles-croix-de-vie/",
-    "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/wpetourisme/4226-grande-plage-2.jpg",
-    "distance": 2.3,
-    "duration": 6
-  },
-  {
     "id": "plage-boisvinet",
     "category": "Plages",
     "title": "Plage de Boisvinet",
@@ -37,6 +24,19 @@
     "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/wpetourisme/4474-plage-780x560.jpg",
     "distance": 1.9,
     "duration": 4
+  },
+  {
+    "id": "plage-grande-plage-saint-gilles",
+    "category": "Plages",
+    "title": "Grande Plage",
+    "description": "Grande plage de sable fin, idéale pour la baignade et les promenades.",
+    "city": "Saint-Gilles-Croix-de-Vie",
+    "latitude": 46.691064,
+    "longitude": -1.940722,
+    "website": "https://www.payssaintgilles-tourisme.fr/loisir/grande-plage-de-st-gilles-croix-de-vie/",
+    "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/wpetourisme/4226-grande-plage-2.jpg",
+    "distance": 2.3,
+    "duration": 6
   },
   {
     "id": "plage-des-cinq-pineaux",

@@ -1,5 +1,18 @@
 [
   {
+    "id": "le-grand-bleu",
+    "category": "Restaurants",
+    "title": "Le Grand Bleu",
+    "description": "Cuisine raffinée dans un cadre élégant à proximité du littoral.",
+    "city": "Saint-Gilles-Croix-de-Vie",
+    "latitude": 46.69621943913815,
+    "longitude": -1.939915938920685,
+    "website": "https://www.brasserielegrandbleu.fr/",
+    "image": "https://cdn.prod.website-files.com/67f3aef81412819d4796a7b9/67fa7f3c5a584206e8bc106d_Le%20grand%20bleu%20Terrasse.png",
+    "distance": 0.6,
+    "duration": 2
+  },
+  {
     "id": "la-cotriade",
     "category": "Restaurants",
     "title": "La Cotriade",
@@ -24,18 +37,5 @@
     "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/65/26/94/le-recif-creperie.jpg?w=400&h=300&s=1",
     "distance": 1.1,
     "duration": 3
-  },
-  {
-    "id": "le-grand-bleu",
-    "category": "Restaurants",
-    "title": "Le Grand Bleu",
-    "description": "Cuisine raffinée dans un cadre élégant à proximité du littoral.",
-    "city": "Saint-Gilles-Croix-de-Vie",
-    "latitude": 46.69621943913815,
-    "longitude": -1.939915938920685,
-    "website": "https://www.brasserielegrandbleu.fr/",
-    "image": "https://cdn.prod.website-files.com/67f3aef81412819d4796a7b9/67fa7f3c5a584206e8bc106d_Le%20grand%20bleu%20Terrasse.png",
-    "distance": 0.6,
-    "duration": 2
   }
 ]
