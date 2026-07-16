@@ -6,6 +6,7 @@ import {
   Landmark,
   UtensilsCrossed,
   ShoppingBag,
+  Building2,
 } from "lucide-react";
 
 import Hero from "../components/hero/Hero";
@@ -16,11 +17,8 @@ import ResultCount from "../components/explorer/ResultCount";
 import ActivityCard from "../components/explorer/ActivityCard";
 import SegmentedControl from "../components/ui/SegmentedControl";
 import ExplorerMap from "../components/map/ExplorerMap";
-import { Building2 } from "lucide-react";
 
 import { places } from "../data";
-import { home } from "../data/home";
-import { calculateDistance } from "../lib/distance";
 
 export default function ExplorerPage() {
   const [selectedCategory, setSelectedCategory] =
@@ -37,28 +35,26 @@ export default function ExplorerPage() {
     selectedCategory === "Toutes"
       ? places
       : places.filter(
-        (place) => place.category === selectedCategory
-      );
+          (place) => place.category === selectedCategory
+        );
 
-  // Calcul des distances
-  const placesWithDistance = filteredPlaces.map((place) => ({
-    ...place,
-    distance: calculateDistance(
-      home.latitude,
-      home.longitude,
-      place.latitude,
-      place.longitude,
-    ),
-  }));
-
-  // Filtre par rayon
-  const visiblePlaces = placesWithDistance.filter(
-    (place) => place.distance <= selectedRadius
+  // Filtre par rayon (distance routière calculée par OpenRouteService)
+  const visiblePlaces = filteredPlaces.filter(
+    (place) =>
+      place.distance !== undefined &&
+      place.distance <= selectedRadius
   );
 
   console.log(
     "Rayon :", selectedRadius,
     "Visible :", visiblePlaces.length
+  );
+
+  console.table(
+    visiblePlaces.map((place) => ({
+      title: place.title,
+      category: place.category,
+    }))
   );
 
   return (
@@ -178,7 +174,6 @@ export default function ExplorerPage() {
           <ExplorerMap places={visiblePlaces} />
         </section>
       )}
-
     </>
   );
 }

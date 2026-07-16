@@ -1,25 +1,16 @@
 [
   {
-    "id": "le-banc-des-sardines",
-    "category": "Restaurants",
-    "title": "Le Banc des Sardines",
-    "description": "Restaurant réputé pour ses poissons, fruits de mer et produits locaux face au port.",
-    "city": "Saint-Gilles-Croix-de-Vie",
-    "latitude": 46.6972,
-    "longitude": -1.9391,
-    "website": "https://www.lebancdessardines.fr/",
-    "image": "https://www.lebancdessardines.fr/wp-content/uploads/restaurant.jpg"
-  },
-  {
     "id": "la-cotriade",
     "category": "Restaurants",
     "title": "La Cotriade",
     "description": "Adresse incontournable pour déguster poissons frais et spécialités marines.",
     "city": "Saint-Gilles-Croix-de-Vie",
-    "latitude": 46.6968,
-    "longitude": -1.9398,
+    "latitude": 46.696116886131165,
+    "longitude": -1.9530129388299484,
     "website": "https://www.lacotriade.fr/",
-    "image": "https://www.lacotriade.fr/wp-content/uploads/restaurant.jpg"
+    "image": "https://cdt85.media.tourinsoft.eu/upload/35322-lacotriade1.jpg",
+    "distance": 1.9,
+    "duration": 5
   },
   {
     "id": "le-recif",
@@ -27,21 +18,12 @@
     "title": "Le Récif",
     "description": "Cuisine de saison mettant à l'honneur les produits de la côte vendéenne.",
     "city": "Saint-Gilles-Croix-de-Vie",
-    "latitude": 46.6959,
-    "longitude": -1.9404,
+    "latitude": 46.69618082705348,
+    "longitude": -1.9541351322224145,
     "website": "https://www.le-recif.fr/",
-    "image": "https://www.le-recif.fr/wp-content/uploads/restaurant.jpg"
-  },
-  {
-    "id": "les-3-mats",
-    "category": "Restaurants",
-    "title": "Les 3 Mats",
-    "description": "Brasserie conviviale sur le port avec poissons, viandes et terrasse.",
-    "city": "Saint-Gilles-Croix-de-Vie",
-    "latitude": 46.6963,
-    "longitude": -1.9387,
-    "website": "https://www.payssaintgilles-tourisme.fr/",
-    "image": ""
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/65/26/94/le-recif-creperie.jpg?w=400&h=300&s=1",
+    "distance": 2,
+    "duration": 5
   },
   {
     "id": "le-grand-bleu",
@@ -49,284 +31,11 @@
     "title": "Le Grand Bleu",
     "description": "Cuisine raffinée dans un cadre élégant à proximité du littoral.",
     "city": "Saint-Gilles-Croix-de-Vie",
-    "latitude": 46.6948,
-    "longitude": -1.9416,
-    "website": "https://www.payssaintgilles-tourisme.fr/",
-    "image": ""
-  },
-  {
-    "id": "le-vent-deden",
-    "category": "Restaurants",
-    "title": "Le Vent d'Éden",
-    "description": "Restaurant apprécié pour sa cuisine inventive et ses produits frais.",
-    "city": "Saint-Hilaire-de-Riez",
-    "latitude": 46.7241,
-    "longitude": -1.9918,
-    "website": "https://www.ventdeden.fr/",
-    "image": "https://www.ventdeden.fr/wp-content/uploads/restaurant.jpg"
-  },
-  {
-    "id": "la-houle",
-    "category": "Restaurants",
-    "title": "La Houle",
-    "description": "Restaurant familial proposant poissons, moules et spécialités vendéennes.",
-    "city": "Saint-Gilles-Croix-de-Vie",
-    "latitude": 46.6976,
-    "longitude": -1.9382,
-    "website": "https://www.payssaintgilles-tourisme.fr/",
-    "image": ""
-  },
-  {
-    "id": "foggia",
-    "category": "Restaurants",
-    "title": "Foggia",
-    "description": "Restaurant italien réputé pour ses pizzas artisanales et pâtes fraîches.",
-    "city": "Saint-Gilles-Croix-de-Vie",
-    "latitude": 46.6954,
-    "longitude": -1.9389,
-    "website": "https://www.foggia.fr/",
-    "image": "https://www.foggia.fr/wp-content/uploads/pizzeria.jpg"
-  },
-  {
-    "id": "suzie-cuit",
-    "category": "Restaurants",
-    "title": "Suzie Cuit",
-    "description": "Crêperie moderne proposant galettes bretonnes et desserts maison.",
-    "city": "Saint-Gilles-Croix-de-Vie",
-    "latitude": 46.6961,
-    "longitude": -1.9408,
-    "website": "https://www.payssaintgilles-tourisme.fr/",
-    "image": ""
-  },
-  {
-    "id": "jm-perochon",
-    "category": "Restaurants",
-    "title": "J.M. Perochon",
-    "description": "Table gastronomique reconnue mettant en valeur les produits de l'océan.",
-    "city": "Saint-Gilles-Croix-de-Vie",
-    "latitude": 46.6935,
-    "longitude": -1.9441,
-    "website": "https://www.lamarine.fr/",
-    "image": "https://www.lamarine.fr/wp-content/uploads/restaurant.jpg"
-  },
-  {
-    "id": "le-casier",
-    "category": "Restaurants",
-    "title": "Le Casier",
-    "description": "Cuisine de la mer mettant à l'honneur les produits de la pêche locale.",
-    "city": "Saint-Gilles-Croix-de-Vie",
-    "latitude": 46.6962,
-    "longitude": -1.9394,
-    "website": "https://www.payssaintgilles-tourisme.fr/",
-    "image": ""
-  },
-  {
-    "id": "le-bosquet",
-    "category": "Restaurants",
-    "title": "Le Bosquet",
-    "description": "Cuisine traditionnelle française dans un cadre chaleureux.",
-    "city": "Saint-Hilaire-de-Riez",
-    "latitude": 46.7245,
-    "longitude": -1.9824,
-    "website": "https://www.payssaintgilles-tourisme.fr/",
-    "image": ""
-  },
-  {
-    "id": "la-villa",
-    "category": "Restaurants",
-    "title": "La Villa",
-    "description": "Restaurant élégant proposant une cuisine maison inspirée des saisons.",
-    "city": "Saint-Gilles-Croix-de-Vie",
-    "latitude": 46.6957,
-    "longitude": -1.9401,
-    "website": "https://www.payssaintgilles-tourisme.fr/",
-    "image": ""
-  },
-  {
-    "id": "le-cap-horn",
-    "category": "Restaurants",
-    "title": "Le Cap Horn",
-    "description": "Brasserie conviviale avec terrasse et spécialités de poissons.",
-    "city": "Saint-Gilles-Croix-de-Vie",
-    "latitude": 46.6969,
-    "longitude": -1.9385,
-    "website": "https://www.payssaintgilles-tourisme.fr/",
-    "image": ""
-  },
-  {
-    "id": "l-ecume-gourmande",
-    "category": "Restaurants",
-    "title": "L'Écume Gourmande",
-    "description": "Cuisine raffinée autour des produits de la mer et des saveurs locales.",
-    "city": "Saint-Hilaire-de-Riez",
-    "latitude": 46.7198,
-    "longitude": -1.9896,
-    "website": "https://www.payssaintgilles-tourisme.fr/",
-    "image": ""
-  },
-  {
-    "id": "l-atelier-des-saveurs",
-    "category": "Restaurants",
-    "title": "L'Atelier des Saveurs",
-    "description": "Restaurant contemporain privilégiant les produits frais et locaux.",
-    "city": "Brétignolles-sur-Mer",
-    "latitude": 46.6276,
-    "longitude": -1.8652,
-    "website": "https://www.payssaintgilles-tourisme.fr/",
-    "image": ""
-  },
-  {
-    "id": "la-table-du-mareyeur",
-    "category": "Restaurants",
-    "title": "La Table du Mareyeur",
-    "description": "Poissons, coquillages et crustacés issus des ports vendéens.",
-    "city": "Saint-Gilles-Croix-de-Vie",
-    "latitude": 46.6974,
-    "longitude": -1.9383,
-    "website": "https://www.payssaintgilles-tourisme.fr/",
-    "image": ""
-  },
-  {
-    "id": "le-nautilus",
-    "category": "Restaurants",
-    "title": "Le Nautilus",
-    "description": "Cuisine traditionnelle avec vue sur le port et ambiance marine.",
-    "city": "Saint-Gilles-Croix-de-Vie",
-    "latitude": 46.6965,
-    "longitude": -1.9392,
-    "website": "https://www.payssaintgilles-tourisme.fr/",
-    "image": ""
-  },
-  {
-    "id": "le-sloop",
-    "category": "Restaurants",
-    "title": "Le Sloop",
-    "description": "Restaurant familial apprécié pour ses grillades et ses poissons.",
-    "city": "Brétignolles-sur-Mer",
-    "latitude": 46.6268,
-    "longitude": -1.8643,
-    "website": "https://www.payssaintgilles-tourisme.fr/",
-    "image": ""
-  },
-  {
-    "id": "la-cabane",
-    "category": "Restaurants",
-    "title": "La Cabane",
-    "description": "Cuisine simple et généreuse mettant en avant les produits régionaux.",
-    "city": "Brem-sur-Mer",
-    "latitude": 46.6054,
-    "longitude": -1.8307,
-    "website": "https://www.payssaintgilles-tourisme.fr/",
-    "image": ""
-  },
-  {
-    "id": "la-littorine",
-    "category": "Restaurants",
-    "title": "La Littorine",
-    "description": "Cuisine de saison inspirée des produits du littoral vendéen.",
-    "city": "Saint-Jean-de-Monts",
-    "latitude": 46.7935,
-    "longitude": -2.0608,
-    "website": "https://www.saint-jean-de-monts.com/",
-    "image": ""
-  },
-  {
-    "id": "le-columbus",
-    "category": "Restaurants",
-    "title": "Le Columbus",
-    "description": "Brasserie contemporaine proposant poissons, viandes et burgers maison.",
-    "city": "Saint-Jean-de-Monts",
-    "latitude": 46.7927,
-    "longitude": -2.0621,
-    "website": "https://www.saint-jean-de-monts.com/",
-    "image": ""
-  },
-  {
-    "id": "la-quichnotte",
-    "category": "Restaurants",
-    "title": "La Quich'Notte",
-    "description": "Restaurant convivial apprécié pour sa cuisine familiale.",
-    "city": "Saint-Jean-de-Monts",
-    "latitude": 46.7939,
-    "longitude": -2.0643,
-    "website": "https://www.saint-jean-de-monts.com/",
-    "image": ""
-  },
-  {
-    "id": "la-sablaise",
-    "category": "Restaurants",
-    "title": "La Sablaise",
-    "description": "Cuisine traditionnelle face au port des Sables-d'Olonne.",
-    "city": "Les Sables-d'Olonne",
-    "latitude": 46.4956,
-    "longitude": -1.7832,
-    "website": "https://www.lessablesdolonne-tourisme.com/",
-    "image": ""
-  },
-  {
-    "id": "le-poisson-a-roulette",
-    "category": "Restaurants",
-    "title": "Le Poisson à Roulettes",
-    "description": "Cuisine inventive autour des produits de la pêche vendéenne.",
-    "city": "Les Sables-d'Olonne",
-    "latitude": 46.4949,
-    "longitude": -1.7815,
-    "website": "https://www.lessablesdolonne-tourisme.com/",
-    "image": ""
-  },
-  {
-    "id": "la-piazzetta",
-    "category": "Restaurants",
-    "title": "La Piazzetta",
-    "description": "Restaurant italien réputé pour ses pizzas et pâtes fraîches.",
-    "city": "Les Sables-d'Olonne",
-    "latitude": 46.4958,
-    "longitude": -1.7806,
-    "website": "https://www.lessablesdolonne-tourisme.com/",
-    "image": ""
-  },
-  {
-    "id": "le-fief",
-    "category": "Restaurants",
-    "title": "Le Fief",
-    "description": "Cuisine gastronomique mettant en avant les producteurs vendéens.",
-    "city": "Les Sables-d'Olonne",
-    "latitude": 46.4974,
-    "longitude": -1.7844,
-    "website": "https://www.lessablesdolonne-tourisme.com/",
-    "image": ""
-  },
-  {
-    "id": "l-assiette-au-jardin",
-    "category": "Restaurants",
-    "title": "L'Assiette au Jardin",
-    "description": "Cuisine raffinée servie dans un cadre verdoyant.",
-    "city": "Noirmoutier-en-l'Île",
-    "latitude": 47.0015,
-    "longitude": -2.2436,
-    "website": "https://www.ile-noirmoutier.com/",
-    "image": ""
-  },
-  {
-    "id": "la-marine-noirmoutier",
-    "category": "Restaurants",
-    "title": "La Marine",
-    "description": "Restaurant gastronomique emblématique de l'île de Noirmoutier.",
-    "city": "Noirmoutier-en-l'Île",
-    "latitude": 47.0024,
-    "longitude": -2.2428,
-    "website": "https://www.lamarine.fr/",
-    "image": ""
-  },
-  {
-    "id": "le-transat",
-    "category": "Restaurants",
-    "title": "Le Transat",
-    "description": "Restaurant de bord de mer proposant poissons, fruits de mer et cuisine de saison.",
-    "city": "Noirmoutier-en-l'Île",
-    "latitude": 47.0004,
-    "longitude": -2.2445,
-    "website": "https://www.ile-noirmoutier.com/",
-    "image": ""
+    "latitude": 46.69621943913815,
+    "longitude": -1.939915938920685,
+    "website": "https://www.brasserielegrandbleu.fr/",
+    "image": "https://cdn.prod.website-files.com/67f3aef81412819d4796a7b9/67fa7f3c5a584206e8bc106d_Le%20grand%20bleu%20Terrasse.png",
+    "distance": 0.8,
+    "duration": 3
   }
 ]

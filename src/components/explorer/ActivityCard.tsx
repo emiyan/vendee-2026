@@ -1,6 +1,7 @@
 import {
   ExternalLink,
   MapPin,
+  Car,
   Waves,
   Building2,
   Trees,
@@ -8,6 +9,8 @@ import {
   UtensilsCrossed,
   ShoppingBag,
 } from "lucide-react";
+
+import { formatDuration } from "../../lib/formatDuration";
 
 import type { Place } from "../../types/place";
 
@@ -26,6 +29,7 @@ export default function ActivityCard({
     image,
     website,
     distance,
+    duration,
   } = place;
 
   function getCategory() {
@@ -106,9 +110,12 @@ export default function ActivityCard({
             {city}
           </p>
 
-          {distance !== undefined && (
-            <p className="mt-2 text-sm font-semibold text-[var(--color-text)]">
-              {distance.toFixed(1)} km
+          {distance !== undefined && duration !== undefined && (
+            <p className="mt-2 flex items-center gap-1 text-sm font-semibold text-[var(--color-text)]">
+              <Car size={15} />
+              <span>
+                {distance.toFixed(0)} km • {formatDuration(duration)}
+              </span>
             </p>
           )}
 

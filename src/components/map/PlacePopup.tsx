@@ -1,4 +1,10 @@
-import { ExternalLink, MapPin } from "lucide-react";
+import {
+  ExternalLink,
+  MapPin,
+  Car,
+} from "lucide-react";
+
+import { formatDuration } from "../../lib/formatDuration";
 
 import type { Place } from "../../types/place";
 
@@ -31,11 +37,16 @@ export default function PlacePopup({
           {place.city}
         </div>
 
-        {place.distance !== undefined && (
-          <div className="mt-2 font-medium text-[var(--color-primary)]">
-            {place.distance.toFixed(1)} km
-          </div>
-        )}
+        {place.distance !== undefined &&
+          place.duration !== undefined && (
+            <div className="mt-2 flex items-center gap-1 font-medium text-[var(--color-primary)]">
+              <Car size={15} />
+              <span>
+                {place.distance.toFixed(0)} km •{" "}
+                {formatDuration(place.duration)}
+              </span>
+            </div>
+          )}
 
         <p className="mt-2 line-clamp-2 text-sm text-slate-600">
           {place.description}
