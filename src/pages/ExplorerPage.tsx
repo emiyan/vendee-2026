@@ -45,16 +45,17 @@ export default function ExplorerPage() {
       place.distance <= selectedRadius
   );
 
+  console.table(
+    visiblePlaces.map((p) => ({
+      id: p.id,
+      title: p.title,
+      category: p.category,
+    }))
+  );
+
   console.log(
     "Rayon :", selectedRadius,
     "Visible :", visiblePlaces.length
-  );
-
-  console.table(
-    visiblePlaces.map((place) => ({
-      title: place.title,
-      category: place.category,
-    }))
   );
 
   return (
@@ -159,7 +160,7 @@ export default function ExplorerPage() {
           <section className="mt-6">
             {visiblePlaces.map((place) => (
               <div
-                key={place.id}
+              key={`${place.category}-${place.id}`}
                 className="mt-6"
               >
                 <ActivityCard place={place} />
