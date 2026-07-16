@@ -9,7 +9,7 @@
     "longitude": -0.8499694366885916,
     "website": "https://www.vendee-tourisme.com/les-moulins-du-terrier-marteau/pouzauges/pcupdl085v503hgp",
     "image": "https://cdt85.media.tourinsoft.eu/upload/OT-Pouzauges--SBOURCIER-05092024-279.jpg?width=640&height=575&crop=1",
-    "distance": 100.8,
+    "distance": 101,
     "duration": 95
   },
   {
@@ -22,8 +22,8 @@
     "longitude": -0.83917430863658,
     "website": "https://www.vendee-tourisme.com/chateau-de-pouzauges/pouzauges/pcupdl085v500onl",
     "image": "https://cdt85.media.tourinsoft.eu/upload/DSC-1448.JPG?width=640&height=575&crop=1",
-    "distance": 99.7,
-    "duration": 95
+    "distance": 100,
+    "duration": 96
   },
   {
     "id": "moulin-des-gourmands",
@@ -35,8 +35,8 @@
     "longitude": -1.8257640648799345,
     "website": "https://www.vendee-tourisme.com/chateau-de-pouzauges/pouzauges/pcupdl085v500onl",
     "image": "https://cdt85.media.tourinsoft.eu/upload/MoulindesGourmands-35-2.jpg?width=640&height=575&crop=1",
-    "distance": 10.5,
-    "duration": 16
+    "distance": 10.8,
+    "duration": 17
   },
   {
     "id": "chemin-de-fer-de-la-vendee",
@@ -48,8 +48,8 @@
     "longitude": -0.9446077208685947,
     "website": "https://www.vendee-tourisme.com/chemin-de-fer-de-la-vendee/mortagne-sur-sevre/pcupdl085v501m9y",
     "image": "https://cdt85.media.tourinsoft.eu/upload/TVVdrone---21.jpeg?width=640&height=575&crop=1",
-    "distance": 103.1,
-    "duration": 86
+    "distance": 103.4,
+    "duration": 87
   },
   {
     "id": "lavoire-du-sentier-des-nichoirs",
@@ -61,7 +61,7 @@
     "longitude": -1.6161787512097696,
     "website": "https://www.vendee-tourisme.com/lavoir-du-sentier-des-nichoirs/beaulieu-sous-la-roche/pcupdl085v51spmy",
     "image": "https://cdt85.media.tourinsoft.eu/upload/pays-des-achards--sbourcier-05-2.jpg?width=640&height=575&crop=1",
-    "distance": 29.7,
+    "distance": 29.9,
     "duration": 37
   },
   {
@@ -74,8 +74,8 @@
     "longitude": -0.9341187062225587,
     "website": "https://www.vendee-tourisme.com/la-ciste-des-cous/bazoges-en-pareds/pcupdl085v51d9mc",
     "image": "https://cdt85.media.tourinsoft.eu/upload/Photo-A--rienne-n1-Ciste-des-Cous.jpg?width=640&height=575&crop=1",
-    "distance": 89.8,
-    "duration": 86
+    "distance": 90,
+    "duration": 87
   },
   {
     "id": "chateau-de-tiffauges",
@@ -87,7 +87,7 @@
     "longitude": -1.1146094334505579,
     "website": "https://www.vendee-tourisme.com/le-chateau-de-tiffauges/tiffauges/pcupdl085v501iex",
     "image": "https://cdt85.media.tourinsoft.eu/upload/Chateau-Tiffauges-entree.jpg?width=640&height=575&crop=1",
-    "distance": 104.3,
+    "distance": 104.5,
     "duration": 90
   },
   {
@@ -100,8 +100,8 @@
     "longitude": -1.741468135113488,
     "website": "https://www.vendee-tourisme.com/chateau-dapremont/apremont/pcupdl053v5049lt",
     "image": "https://cdt85.media.tourinsoft.eu/upload/Apremont-Vendee-tourisme.jpg?width=640&height=575&crop=1",
-    "distance": 21.3,
-    "duration": 29
+    "distance": 21.5,
+    "duration": 30
   },
   {
     "id": "parc-du-chateau-de-la-flocelliere",
@@ -113,7 +113,7 @@
     "longitude": -0.8615960219476734,
     "website": "https://www.vendee-tourisme.com/parc-du-chateau-de-la-flocelliere/sevremont/pcupdl085v503htj",
     "image": "https://cdt85.media.tourinsoft.eu/upload/jardin-medieval.jpg?width=640&height=575&crop=1",
-    "distance": 101.4,
+    "distance": 101.7,
     "duration": 96
   },
   {
@@ -126,7 +126,7 @@
     "longitude": -1.210723005920825,
     "website": "https://www.vendee-tourisme.com/chateau-de-la-greve/saint-martin-des-noyers/pcupdl085v500omz",
     "image": "https://cdt85.media.tourinsoft.eu/upload/chateau-de-la-greve-saint-martin-des-noyers-85-pcu-2.jpg?width=640&height=575&crop=1",
-    "distance": 67.9,
+    "distance": 68.2,
     "duration": 64
   },
   {
@@ -139,8 +139,8 @@
     "longitude": -1.3980418356582034,
     "website": "https://www.vendee-tourisme.com/chateau-de-la-bruniere/le-givre/pcupdl085v50vlfg",
     "image": "https://cdt85.media.tourinsoft.eu/upload/Le-Givre---Chateaude-la-Bruniere--BT-Moutiers.jpg?width=640&height=575&crop=1",
-    "distance": 63.6,
-    "duration": 74
+    "distance": 64.7,
+    "duration": 75
   },
   {
     "id": "chateau-de-commequiers",
@@ -152,7 +152,7 @@
     "longitude": -1.8314089075956632,
     "website": "https://www.vendee-tourisme.com/chateau-de-commequiers/commequiers/pcupdl0850155048",
     "image": "https://cdt85.media.tourinsoft.eu/upload/169401-stgilles14-mg-3094.jpg?width=640&height=575&crop=1",
-    "distance": 13.4,
+    "distance": 14,
     "duration": 21
   },
   {
@@ -165,7 +165,7 @@
     "longitude": -0.9584272959795914,
     "website": "https://www.vendee-tourisme.com/chateau-de-mortagne-site-medieval/mortagne-sur-sevre/pcupdl085v51d8ok",
     "image": "https://cdt85.media.tourinsoft.eu/upload/Manoir-de-Mortagne.jpg?width=640&height=575&crop=1",
-    "distance": 102.9,
+    "distance": 103.2,
     "duration": 87
   },
   {
@@ -178,8 +178,8 @@
     "longitude": -0.7460817192039731,
     "website": "https://www.vendee-tourisme.com/abbaye-saint-pierre-de-maillezais/maillezais/pcupdl085v500wtg",
     "image": "https://cdt85.media.tourinsoft.eu/upload/Abbaye-Maillezais-0546.jpg?width=640&height=575&crop=1",
-    "distance": 114.5,
-    "duration": 95
+    "distance": 114.8,
+    "duration": 96
   },
   {
     "id": "abbaye-de-nieul-sur-lautise",
@@ -191,8 +191,8 @@
     "longitude": -0.6809578060573858,
     "website": "https://www.vendee-tourisme.com/abbaye-de-nieul-sur-lautise/rives-dautise/pcupdl085v500wud",
     "image": "https://cdt85.media.tourinsoft.eu/upload/Le-cloitre-Nieul-85-.jpg?width=640&height=575&crop=1",
-    "distance": 117.4,
-    "duration": 95
+    "distance": 117.7,
+    "duration": 96
   },
   {
     "id": "logis-de-la-chabotterie",
@@ -204,8 +204,8 @@
     "longitude": -1.4066742630872175,
     "website": "https://www.vendee-tourisme.com/le-logis-de-la-chabotterie/montreverd/pcupdl085v500r74",
     "image": "https://cdt85.media.tourinsoft.eu/upload/Logis-de-la-chabotterie-saint-sulpice-le-verdon-85-pcu-01.jpg?width=640&height=575&crop=1",
-    "distance": 67.4,
-    "duration": 62
+    "distance": 67.6,
+    "duration": 63
   },
   {
     "id": "prieure-de-grammont",
@@ -217,8 +217,8 @@
     "longitude": -0.9849968006232479,
     "website": "https://www.vendee-tourisme.com/le-prieure-de-grammont/saint-prouant/pcupdl085v501ml9",
     "image": "https://cdt85.media.tourinsoft.eu/upload/Prieure-Grammont-53.jpg?width=640&height=575&crop=1",
-    "distance": 87.7,
-    "duration": 81
+    "distance": 88,
+    "duration": 82
   },
   {
     "id": "prieure-saint-nicolas",
@@ -230,8 +230,8 @@
     "longitude": -1.792275861565936,
     "website": "https://www.vendee-tourisme.com/prieure-saint-nicolas-et-memorial-des-peris-en-mer/les-sables-dolonne/pcupdl085v50h3jr",
     "image": "https://cdt85.media.tourinsoft.eu/upload/2024-LS-PrieureSaintNicolas-Drone---ALamoureux.jpg?width=640&height=575&crop=1",
-    "distance": 25.1,
-    "duration": 36
+    "distance": 25.9,
+    "duration": 37
   },
   {
     "id": "chateau-d-ardelay",
@@ -243,8 +243,8 @@
     "longitude": -1.005378363088005,
     "website": "https://www.vendee-tourisme.com/chateau-dardelay/les-herbiers/pcupdl085v50o2yg",
     "image": "https://cdt85.media.tourinsoft.eu/upload/20240812-1.jpg?width=640&height=575&crop=1",
-    "distance": 95.3,
-    "duration": 83
+    "distance": 95.6,
+    "duration": 84
   },
   {
     "id": "chateau-de-bessay",
@@ -256,8 +256,8 @@
     "longitude": -1.1530766797698948,
     "website": "https://www.vendee-tourisme.com/chateau-de-bessay/bessay/pcupdl085v50fplf",
     "image": "https://cdt85.media.tourinsoft.eu/upload/401.JPG?width=640&height=575&crop=1",
-    "distance": 77.2,
-    "duration": 71
+    "distance": 77.5,
+    "duration": 72
   },
   {
     "id": "chateau-de-saint-mesmin",
@@ -269,7 +269,7 @@
     "longitude": -0.7177135331272375,
     "website": "https://www.vendee-tourisme.com/chateau-de-saint-mesmin/saint-mesmin/pcupdl085v501iju",
     "image": "https://cdt85.media.tourinsoft.eu/upload/chateau-saint-mesmin-Rassemblement-Europeen-26.04.2015--2-.JPG?width=640&height=575&crop=1",
-    "distance": 109.5,
+    "distance": 109.8,
     "duration": 105
   },
   {
@@ -282,8 +282,8 @@
     "longitude": -1.9089325933937673,
     "website": "https://www.vendee-tourisme.com/abbaye-de-lile-chauvet/bois-de-cene/pcupdl085v51imdv",
     "image": "https://cdt85.media.tourinsoft.eu/upload/2022-Abbaye-Ile-Chauvet-SimonBourcier--6-.jpg?width=640&height=575&crop=1",
-    "distance": 32.8,
-    "duration": 47
+    "distance": 32.2,
+    "duration": 46
   },
   {
     "id": "chateau-de-terre-neuve",
@@ -295,7 +295,7 @@
     "longitude": -0.814560893797646,
     "website": "https://www.vendee-tourisme.com/chateau-de-terre-neuve/fontenay-le-comte/pcupdl085v5033jf",
     "image": "https://cdt85.media.tourinsoft.eu/upload/ChateauTerre-Neuve1.jpg?width=640&height=575&crop=1",
-    "distance": 103.6,
+    "distance": 103.9,
     "duration": 86
   },
   {
@@ -308,8 +308,8 @@
     "longitude": -1.618472050186492,
     "website": "https://www.vendee-tourisme.com/chateau-de-talmont/talmont-saint-hilaire/pcupdl085v502ta5",
     "image": "https://cdt85.media.tourinsoft.eu/upload/Capture-d-ecran-2026-03-18-141721.png?width=640&height=575&crop=1",
-    "distance": 44,
-    "duration": 54
+    "distance": 45.1,
+    "duration": 55
   },
   {
     "id": "vieux-chateau-ile-dyeu",
@@ -321,8 +321,8 @@
     "longitude": -2.3684575774863452,
     "website": "https://www.ile-yeu.fr/que-faire-a-l-ile-d-yeu/se-divertir/activites-sur-l-ile/le-vieux-chateau-5365860",
     "image": "https://api.cloudly.space/resize/clip/1900/1080/75/aHR0cHM6Ly9jZHQ4NS5tZWRpYS50b3VyaW5zb2Z0LmV1L3VwbG9hZC8yNS0tLUxlLXZpZXV4LWNoYXRlYXUtLS1PVC1JbGUtZC1ZZXUtLTAxLTMuanBn/image.jpg",
-    "distance": 64.6,
-    "duration": 98
+    "distance": 64,
+    "duration": 97
   },
   {
     "id": "le-sanctuaire-de-la-salette",
@@ -334,8 +334,8 @@
     "longitude": -2.3684575774863452,
     "website": "https://www.vendee-tourisme.com/le-sanctuaire-de-la-salette/la-rabateliere/pcupdl085v5018nn",
     "image": "https://cdt85.media.tourinsoft.eu/upload/Patrimoine-culturel-Le-sanctuaire-de-La-Salette-La-Rabateliere-85-1.jpg?width=640&height=575&crop=1",
-    "distance": 64.6,
-    "duration": 98
+    "distance": 64,
+    "duration": 97
   },
   {
     "id": "abbaye-royale",
@@ -347,8 +347,8 @@
     "longitude": -1.2502521797911768,
     "website": "https://www.vendee-tourisme.com/abbaye-royale/saint-michel-en-lherm/pcupdl085v500abt",
     "image": "https://cdt85.media.tourinsoft.eu/upload/Abbaye-SMEH-KG--6--2.jpg?width=640&height=575&crop=1",
-    "distance": 88,
-    "duration": 101
+    "distance": 92.5,
+    "duration": 102
   },
   {
     "id": "abbaye-sainte-marie-du-Gue-de-trizay",
@@ -360,7 +360,7 @@
     "longitude": -1.1137521022330237,
     "website": "https://www.vendee-tourisme.com/abbaye-sainte-marie-du-gue-de-trizay/bournezeau/pcupdl085v51f2c1",
     "image": "https://cdt85.media.tourinsoft.eu/upload/2026-abbaye-vu-du-cloitre.png?width=640&height=575&crop=1",
-    "distance": 72.1,
+    "distance": 72.3,
     "duration": 64
   },
   {
@@ -373,8 +373,8 @@
     "longitude": -0.994926550715579,
     "website": "https://www.vendee-tourisme.com/le-chateau-du-boistissandeau-les-herbiers/les-herbiers/pcupdl085v52409l",
     "image": "https://cdt85.media.tourinsoft.eu/upload/Boistissandeau-Avril2025--PaysdesHerbiers-30-.JPG?width=640&height=575&crop=1",
-    "distance": 98.5,
-    "duration": 87
+    "distance": 98.8,
+    "duration": 88
   },
   {
     "id": "chateau-de-l-etenduere",
@@ -386,8 +386,8 @@
     "longitude": -1.0256816518883907,
     "website": "https://www.vendee-tourisme.com/chateau-de-letenduere-les-herbiers/les-herbiers/pcupdl085v5240ch",
     "image": "https://cdt85.media.tourinsoft.eu/upload/l-Etenduere-042025-estellesebalade-OTLesHerbiers--7-.jpg?width=640&height=575&crop=1",
-    "distance": 93.6,
-    "duration": 80
+    "distance": 93.9,
+    "duration": 81
   },
   {
     "id": "chateau-de-sigournais",
@@ -399,7 +399,7 @@
     "longitude": -0.9854461643677812,
     "website": "https://www.vendee-tourisme.com/le-chateau-de-sigournais/sigournais/pcupdl085v500onz",
     "image": "https://cdt85.media.tourinsoft.eu/upload/Communaute-de-communes-Pays-Chantonnay-Mehdi-media-30.jpeg?width=640&height=575&crop=1",
-    "distance": 85.1,
+    "distance": 85.4,
     "duration": 79
   },
   {
@@ -412,7 +412,7 @@
     "longitude": -1.8048362090179177,
     "website": "https://www.lessablesdolonne.fr/plages/le-phare-de-larmandeche-pcupdl085v50h3jj/",
     "image": "https://www.lessablesdolonne.fr/wp-content/uploads/sit/c52a94710b68f55dca6769212643f622-2024-LS-PharedelArmandeche---ALamoureux-470x300.jpg",
-    "distance": 32.8,
-    "duration": 48
+    "distance": 33.6,
+    "duration": 50
   }
 ]

@@ -9,8 +9,8 @@
     "longitude": -1.9386,
     "website": "https://www.vendee-tourisme.com/top-destinations/saint-gilles-croix-de-vie",
     "image": "https://www.vendee-tourisme.com/sites/www.vendee-tourisme.com/files/styles/top_destinations_entete/public/thumbnails/image/grande_plage_saint_gilles_croix_de_vie_1920x620.jpg?itok=DpIG_YOq",
-    "distance": 0.8,
-    "duration": 3
+    "distance": 0.7,
+    "duration": 2
   },
   {
     "id": "saint-hilaire-de-riez",
@@ -22,8 +22,8 @@
     "longitude": -1.9475,
     "website": "https://www.payssaintgilles-tourisme.fr/destination/nos-destinations/saint-hilaire-de-riez/",
     "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/2021/01/pineaux-2-1920x900.jpg",
-    "distance": 5,
-    "duration": 9
+    "distance": 3.8,
+    "duration": 8
   },
   {
     "id": "bretignolles-sur-mer",
@@ -35,8 +35,8 @@
     "longitude": -1.8664,
     "website": "https://www.payssaintgilles-tourisme.fr/destination/nos-destinations/bretignolles-sur-mer/",
     "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/2021/01/surf-plage-dunes-2000x900.jpg",
-    "distance": 11.3,
-    "duration": 20
+    "distance": 12.1,
+    "duration": 22
   },
   {
     "id": "brem-sur-mer",
@@ -48,8 +48,8 @@
     "longitude": -1.8304,
     "website": "https://www.payssaintgilles-tourisme.fr/destination/nos-destinations/brem-sur-mer/",
     "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/2021/01/marais-brem-2000x900.jpg",
-    "distance": 17.3,
-    "duration": 24
+    "distance": 18.1,
+    "duration": 26
   },
   {
     "id": "saint-jean-de-monts",
@@ -61,8 +61,8 @@
     "longitude": -2.0607,
     "website": "https://paysdesaintjeandemonts.fr/",
     "image": "https://paysdesaintjeandemonts.fr/app/uploads/iris-images/10628/pecherie-labarredemonts-florianperoud-1-1920x1080-f50_50.webp",
-    "distance": 17.7,
-    "duration": 25
+    "distance": 17.1,
+    "duration": 24
   },
   {
     "id": "noirmoutier-en-lile",
@@ -74,8 +74,8 @@
     "longitude": -2.2442,
     "website": "https://www.ile-noirmoutier.com/fr",
     "image": "https://www.okvoyage.com/wp-content/uploads/2021/02/que-faire-sur-lile-de-noirmoutier.jpg",
-    "distance": 53.1,
-    "duration": 65
+    "distance": 52.5,
+    "duration": 64
   },
   {
     "id": "barbatre",
@@ -87,8 +87,8 @@
     "longitude": -2.1766,
     "website": "https://www.barbatre.fr/accueil/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Barb%C3%A2tre%2C_%C3%A9glise%2C_cimeti%C3%A8re.jpg/330px-Barb%C3%A2tre%2C_%C3%A9glise%2C_cimeti%C3%A8re.jpg",
-    "distance": 42.7,
-    "duration": 54
+    "distance": 42.1,
+    "duration": 53
   },
   {
     "id": "lepine",
@@ -100,8 +100,8 @@
     "longitude": -2.2654,
     "website": "https://www.lepine-iledenoirmoutier.fr/",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Vzn3md0FF-jgl1B2QV8xGVs-OUGPzScuRx86Wd4w0Q&s=10",
-    "distance": 55.1,
-    "duration": 69
+    "distance": 54.5,
+    "duration": 68
   },
   {
     "id": "les-sables-dolonne",
@@ -113,8 +113,8 @@
     "longitude": -1.7831,
     "website": "https://www.lessablesdolonne-tourisme.com/",
     "image": "https://www.lessablesdolonne.fr/wp-content/uploads/2024/06/2023-amartineau-sentiers-velodyssee-24-1600x900.jpg",
-    "distance": 33.1,
-    "duration": 46
+    "distance": 34.2,
+    "duration": 48
   },
   {
     "id": "talmont-saint-hilaire",
@@ -126,8 +126,8 @@
     "longitude": -1.6228,
     "website": "https://www.vendee-tourisme.com/top-destinations/talmont-saint-hilaire",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbT5hAyO5cb1CRcQzFuehewB4kYOHjufc2CfTOfSloSQ&s=10",
-    "distance": 42.4,
-    "duration": 53
+    "distance": 43.5,
+    "duration": 54
   },
   {
     "id": "jard-sur-mer",
@@ -139,8 +139,8 @@
     "longitude": -1.5762,
     "website": "https://www.destination-vendeegrandlittoral.com/explorer/destination/jard-sur-mer/",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6fhCzEs7Ww-5C24ydF5Eb7_ZBgnVmNI9BhrQ-cGFmw&s=10",
-    "distance": 51.3,
-    "duration": 62
+    "distance": 52.4,
+    "duration": 64
   },
   {
     "id": "la-tranche-sur-mer",
@@ -152,8 +152,8 @@
     "longitude": -1.4377,
     "website": "https://www.latranchesurmer-tourisme.fr/",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQexBtjXeO6jfT3K5zRfredGGdoWipKk8x9G1rPEpXPxQ&s=10",
-    "distance": 71.1,
-    "duration": 88
+    "distance": 72.2,
+    "duration": 90
   },
   {
     "id": "vouvant",
@@ -165,8 +165,8 @@
     "longitude": -0.7698,
     "website": "https://www.les-plus-beaux-villages-de-france.org/fr/nos-villages/vouvant/",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0zLN2DIJizMBrqRl-ynQS9MTPayZQSha1rhpAY5ELFg&s=10",
-    "distance": 114.4,
-    "duration": 96
+    "distance": 114.6,
+    "duration": 97
   },
   {
     "id": "apremont",
@@ -178,7 +178,7 @@
     "longitude": -1.7402,
     "website": "https://www.petitescitesdecaractere.com/cites/apremont/",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCgMKt7JNmdpsKmhIgL__9axVWxUqO6nTKL9SPLkDbWg&s=10",
-    "distance": 21.1,
+    "distance": 21.4,
     "duration": 29
   },
   {
@@ -191,7 +191,7 @@
     "longitude": -1.8781,
     "website": "https://www.vendee-tourisme.com/challans-ville-entre-traditions-et-modernite-guide-touristique-complet",
     "image": "https://www.vendee-tourisme.com/sites/www.vendee-tourisme.com/files/styles/paragraphes_media_50/public/thumbnails/image/autrefoischallans2_challans_570x430.jpg?itok=Euffxg48",
-    "distance": 20.3,
+    "distance": 19.7,
     "duration": 26
   },
   {
@@ -204,8 +204,8 @@
     "longitude": -1.9556,
     "website": "https://www.vendee-tourisme.com/inspirez-moi/culture-et-patrimoine/sallertaine-ville-et-metiers-dart",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWMosU361j9x-AcDw8g5AG61XZme5jRe4Z-cT-co3iSg&s=10",
-    "distance": 23,
-    "duration": 30
+    "distance": 22.4,
+    "duration": 29
   },
   {
     "id": "commequiers",
@@ -217,8 +217,8 @@
     "longitude": -1.8372,
     "website": "https://www.payssaintgilles-tourisme.fr/destination/nos-destinations/commequiers/",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTETSJz762Lr2J9TPNKYFiwvbQ_btbQ9XSqF5YgnP22pQ&s=10",
-    "distance": 12.8,
-    "duration": 20
+    "distance": 13.5,
+    "duration": 21
   },
   {
     "id": "saint-reverend",
@@ -230,7 +230,7 @@
     "longitude": -1.8282,
     "website": "https://www.payssaintgilles-tourisme.fr/destination/nos-destinations/saint-reverend/",
     "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/2021/01/lac-guegorand-1-1-1200x704.jpg",
-    "distance": 10.1,
+    "distance": 10.3,
     "duration": 17
   },
   {
@@ -243,8 +243,8 @@
     "longitude": -1.4266,
     "website": "https://www.vendee-tourisme.com/top-destinations/la-roche-sur-yon",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlGCNTDFFIex1z5dhCsttJiGKKWFpb4aihYpTptW2K6w&s=10",
-    "distance": 44.5,
-    "duration": 47
+    "distance": 44.7,
+    "duration": 48
   },
   {
     "id": "mortagne-sur-sevres",
@@ -256,8 +256,8 @@
     "longitude": -0.9447991989585174,
     "website": "https://www.vendee-tourisme.com/mortagne-sur-sevre-petite-cite-de-caractere/mortagne-sur-sevre/pcupdl085v51iedj-0",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlGCNTDFFIex1z5dhCsttJiGKKWFpb4aihYpTptW2K6w&s=10",
-    "distance": 105,
-    "duration": 86
+    "distance": 105.3,
+    "duration": 87
   },
   {
     "id": "maillezais",
@@ -269,7 +269,7 @@
     "longitude": -0.7395,
     "website": "https://www.vendee-tourisme.com/office-de-tourisme-vendee-marais-poitevin-maillezais/maillezais/orgpdl085v500m7z",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh4IRQIknjqSohIxDfCATfaXSCFzTwijWyJl99Ea-I5A&s",
-    "distance": 116,
-    "duration": 96
+    "distance": 116.3,
+    "duration": 97
   }
 ]

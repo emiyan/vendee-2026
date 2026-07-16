@@ -9,8 +9,8 @@
     "longitude": -1.9530129388299484,
     "website": "https://www.lacotriade.fr/",
     "image": "https://cdt85.media.tourinsoft.eu/upload/35322-lacotriade1.jpg",
-    "distance": 1.9,
-    "duration": 5
+    "distance": 1,
+    "duration": 2
   },
   {
     "id": "le-recif",
@@ -22,8 +22,8 @@
     "longitude": -1.9541351322224145,
     "website": "https://www.le-recif.fr/",
     "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/65/26/94/le-recif-creperie.jpg?w=400&h=300&s=1",
-    "distance": 2,
-    "duration": 5
+    "distance": 1.1,
+    "duration": 3
   },
   {
     "id": "le-grand-bleu",
@@ -35,7 +35,7 @@
     "longitude": -1.939915938920685,
     "website": "https://www.brasserielegrandbleu.fr/",
     "image": "https://cdn.prod.website-files.com/67f3aef81412819d4796a7b9/67fa7f3c5a584206e8bc106d_Le%20grand%20bleu%20Terrasse.png",
-    "distance": 0.8,
-    "duration": 3
+    "distance": 0.6,
+    "duration": 2
   }
 ]

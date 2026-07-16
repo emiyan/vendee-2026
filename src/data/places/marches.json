@@ -9,8 +9,8 @@
     "longitude": -2.061245936834933,
     "website": "https://paysdesaintjeandemonts.fr/saint-jean-de-monts/manger-et-deguster/marches/",
     "image": "https://paysdesaintjeandemonts.fr/app/uploads/2024/02/saintjeandemonts-marche-placedeleglise-marchands.webp",
-    "distance": 17.5,
-    "duration": 25
+    "distance": 16.9,
+    "duration": 24
   },
   {
     "id": "marche-des-demoiselles-saint-jean-de-monts",
@@ -22,8 +22,8 @@
     "longitude": -2.0537428381117273,
     "website": "https://paysdesaintjeandemonts.fr/saint-jean-de-monts/manger-et-deguster/marches/",
     "image": "https://paysdesaintjeandemonts.fr/app/uploads/2024/02/saintjeandemonts-marche-demoiselles-768x432.webp",
-    "distance": 17.1,
-    "duration": 24
+    "distance": 14.8,
+    "duration": 23
   },
   {
     "id": "marche-nocturne-de-saint-jean-de-monts",
@@ -35,8 +35,8 @@
     "longitude": -2.0706015797428106,
     "website": "https://paysdesaintjeandemonts.fr/saint-jean-de-monts/manger-et-deguster/marches/marche-nocturne/",
     "image": "https://paysdesaintjeandemonts.fr/app/uploads/iris-images/3973/saintjeandemonts-marche-nocturne-1920x1080-f50_50.webp",
-    "distance": 18.4,
-    "duration": 26
+    "distance": 16.5,
+    "duration": 25
   },
   {
     "id": "marche-d-ete-notre-dame-de-monts",
@@ -48,7 +48,7 @@
     "longitude": -2.1321382664182487,
     "website": "https://paysdesaintjeandemonts.fr/notre-dame-de-monts/manger-et-deguster/marches/",
     "image": "https://paysdesaintjeandemonts.fr/app/uploads/2024/05/Notredamedemont-marche-florian-peroud-1024x576.jpg",
-    "distance": 24.8,
+    "distance": 24.2,
     "duration": 36
   },
   {
@@ -61,7 +61,7 @@
     "longitude": -2.1309063370422083,
     "website": "https://paysdesaintjeandemonts.fr/notre-dame-de-monts/manger-et-deguster/marches/",
     "image": "https://paysdesaintjeandemonts.fr/app/uploads/2024/05/Notredamedemonts-marche-famille-florianperoud-1024x576.jpg",
-    "distance": 24.6,
+    "distance": 24,
     "duration": 35
   },
   {
@@ -74,8 +74,8 @@
     "longitude": -2.137661463800542,
     "website": "https://paysdesaintjeandemonts.fr/notre-dame-de-monts/manger-et-deguster/marches/",
     "image": "https://paysdesaintjeandemonts.fr/app/uploads/iris-images/3973/saintjeandemonts-marche-nocturne-530x0.webp",
-    "distance": 25.1,
-    "duration": 38
+    "distance": 24.5,
+    "duration": 37
   },
   {
     "id": "marche-annuel-de-la-barre-de-monts",
@@ -87,8 +87,8 @@
     "longitude": -2.136030160238599,
     "website": "https://paysdesaintjeandemonts.fr/notre-dame-de-monts/manger-et-deguster/marches/",
     "image": "https://paysdesaintjeandemonts.fr/app/uploads/2024/03/labarredemonts-marche-legumes-1024x756.webp",
-    "distance": 34.7,
-    "duration": 45
+    "distance": 34.1,
+    "duration": 44
   },
   {
     "id": "marche-estival-de-producteurs-de-la-barre-de-monts-fromentine",
@@ -100,8 +100,8 @@
     "longitude": -2.1400697149183245,
     "website": "https://paysdesaintjeandemonts.fr/notre-dame-de-monts/manger-et-deguster/marches/",
     "image": "https://paysdesaintjeandemonts.fr/app/uploads/2024/03/labarredemonts-marche-producteurs-1024x769.webp",
-    "distance": 35.3,
-    "duration": 46
+    "distance": 34.7,
+    "duration": 45
   },
   {
     "id": "marche-de-soullans",
@@ -113,8 +113,8 @@
     "longitude": -1.900133877114993,
     "website": "https://paysdesaintjeandemonts.fr/soullans/marche/",
     "image": "https://paysdesaintjeandemonts.fr/app/uploads/2024/01/soullans-marche-etale.webp",
-    "distance": 13.8,
-    "duration": 18
+    "distance": 13.2,
+    "duration": 17
   },
   {
     "id": "marche-nocture-saint-gilles-croix-de-vie",
@@ -126,8 +126,8 @@
     "longitude": -1.9335172078077114,
     "website": "https://www.vendee-tourisme.com/agenda-des-sorties-et-evenements-en-vendee/marche-nocturne-artisanal-de-saint-gilles-croix-de-vie/saint-gilles-croix-de-vie/fmapdl085v50hhv0",
     "image": "https://cdt85.media.tourinsoft.eu/upload/Marche-nocturne--Alexandre-Lamoureux.jpg?width=640&height=575&crop=1",
-    "distance": 0.5,
-    "duration": 2
+    "distance": 1.3,
+    "duration": 4
   },
   {
     "id": "marche-bretignolles-centre",
@@ -139,8 +139,8 @@
     "longitude": -1.8546933425547305,
     "website": "https://www.vendee-tourisme.com/agenda-des-sorties-et-evenements-en-vendee/marche-du-centre-ville-de-bretignolles-sur-mer/bretignolles-sur-mer/fmapdl0850130522",
     "image": "https://cdt85.media.tourinsoft.eu/upload/sgcv-18-07-26-basse-def-4.jpg?width=640&height=575&crop=1",
-    "distance": 10.9,
-    "duration": 20
+    "distance": 11.6,
+    "duration": 22
   },
   {
     "id": "marche-saint-hilaire-centre",
@@ -152,8 +152,8 @@
     "longitude": -1.945360492006775,
     "website": "https://www.vendee-tourisme.com/agenda-des-sorties-et-evenements-en-vendee/marche-du-centre-ville-saint-hilaire-de-riez/saint-hilaire-de-riez/fmapdl0850130544",
     "image": "https://cdt85.media.tourinsoft.eu/upload/1781--mg-2975.jpg?width=640&height=575&crop=1",
-    "distance": 3.8,
-    "duration": 8
+    "distance": 3.3,
+    "duration": 6
   },
   {
     "id": "marche-sion-sur-ocean",
@@ -165,8 +165,8 @@
     "longitude": -1.9763930930669305,
     "website": "https://www.vendee-tourisme.com/agenda-des-sorties-et-evenements-en-vendee/marche-de-sion/saint-hilaire-de-riez/fmapdl0850130545",
     "image": "https://cdt85.media.tourinsoft.eu/upload/1782--mg-2975.jpg",
-    "distance": 4.6,
-    "duration": 10
+    "distance": 3.7,
+    "duration": 7
   },
   {
     "id": "marche-challans",
@@ -178,7 +178,7 @@
     "longitude": -1.8769085544571724,
     "website": "https://www.vendee-tourisme.com/agenda-des-sorties-et-evenements-en-vendee/marche-de-challans/challans/fmapdl085v51rxws-0",
     "image": "https://cdn.iris-etourism.io/uploads/gochallansgoistourisme/595/018-photo-challans-elisefournier.webp",
-    "distance": 21.1,
+    "distance": 20.5,
     "duration": 28
   },
   {
@@ -191,8 +191,8 @@
     "longitude": -1.7861003645494167,
     "website": "https://www.lessablesdolonne.fr/plages/les-halles-centrales-pcupdl085v50h3jb/",
     "image": "https://www.lessablesdolonne.fr/wp-content/uploads/2024/06/hallescentrales-sbourcier-vendeeexpansion-expire072031-1120x0.jpg",
-    "distance": 33.5,
-    "duration": 48
+    "distance": 34.5,
+    "duration": 49
   },
   {
     "id": "marche-arago-sables-d-olonne",
@@ -204,8 +204,8 @@
     "longitude": -1.774257435301284,
     "website": "https://www.lessablesdolonne.fr/les-marches-et-producteurs-aux-sables-dolonne-on-craque-et-on-croque-pour-eux/",
     "image": "https://www.lessablesdolonne.fr/wp-content/uploads/2025/07/2025-marchearago-jfbrossier-500x540.jpg",
-    "distance": 33.9,
-    "duration": 46
+    "distance": 35,
+    "duration": 47
   },
   {
     "id": "marches-noirmoutier",
@@ -217,8 +217,8 @@
     "longitude": -2.2466776653609464,
     "website": "https://www.ile-noirmoutier.com/fr/les-marches-de-lile-de-noirmoutier",
     "image": "https://www.ile-noirmoutier.com/sites/default/files/styles/two_columns/public/2024-02/Ventes%20directes%20hu%C3%AEtres%20Noirmoutier%20-%20Trendz.jpg?itok=NCk8tAqi",
-    "distance": 52.7,
-    "duration": 64
+    "distance": 52.1,
+    "duration": 63
   },
   {
     "id": "marche-jard-sur-mer",
@@ -230,7 +230,7 @@
     "longitude": -1.5744366197260042,
     "website": "https://www.vendee-tourisme.com/agenda-des-sorties-et-evenements-en-vendee/marche-hebdomadaire/jard-sur-mer/fmapdl085v50fufs",
     "image": "https://cdt85.media.tourinsoft.eu/upload/Marche-1-6.jpg?width=640&height=575&crop=1",
-    "distance": 51.6,
-    "duration": 63
+    "distance": 52.7,
+    "duration": 64
   }
 ]

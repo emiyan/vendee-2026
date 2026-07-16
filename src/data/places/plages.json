@@ -9,8 +9,8 @@
     "longitude": -1.940722,
     "website": "https://www.payssaintgilles-tourisme.fr/loisir/grande-plage-de-st-gilles-croix-de-vie/",
     "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/wpetourisme/4226-grande-plage-2.jpg",
-    "distance": 1.5,
-    "duration": 5
+    "distance": 2.3,
+    "duration": 6
   },
   {
     "id": "plage-boisvinet",
@@ -22,8 +22,8 @@
     "longitude": -1.9537,
     "website": "https://www.payssaintgilles-tourisme.fr/loisir/plage-de-boisvinet/",
     "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/wpetourisme/4227-boisvinet-plage.jpg",
-    "distance": 2,
-    "duration": 5
+    "distance": 1.1,
+    "duration": 3
   },
   {
     "id": "plage-pelle-a-porteau",
@@ -35,8 +35,8 @@
     "longitude": -1.9606,
     "website": "https://www.payssaintgilles-tourisme.fr/loisir/plage-de-la-pelle-a-porteau/",
     "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/wpetourisme/4474-plage-780x560.jpg",
-    "distance": 2.8,
-    "duration": 7
+    "distance": 1.9,
+    "duration": 4
   },
   {
     "id": "plage-des-cinq-pineaux",
@@ -48,8 +48,8 @@
     "longitude": -1.973,
     "website": "https://www.payssaintgilles-tourisme.fr/loisir/plage-des-cinq-pineaux/",
     "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/wpetourisme/S40A5846-1200x800.jpg",
-    "distance": 4.4,
-    "duration": 10
+    "distance": 3.5,
+    "duration": 7
   },
   {
     "id": "plage-des-bussoleries",
@@ -61,7 +61,7 @@
     "longitude": -1.9779,
     "website": "https://www.payssaintgilles-tourisme.fr/loisir/plage-des-bussoleries/",
     "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/wpetourisme/sgcv-18-05-23-basse-def-53-780x560.jpg",
-    "distance": 5.9,
-    "duration": 12
+    "distance": 5,
+    "duration": 9
   }
 ]

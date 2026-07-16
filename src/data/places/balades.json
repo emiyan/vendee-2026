@@ -8,7 +8,9 @@
     "latitude": 46.5729,
     "longitude": -0.7698,
     "website": "https://www.vendee-maraispoitevin.com/randonnees-nos-chemins-de-traverse/circuit-pedestre-les-remparts-vouvant-fr-3554496/",
-    "image": ""
+    "image": "",
+    "distance": 114.6,
+    "duration": 96
   },
   {
     "id": "balade-le-bocage-vouvant",
@@ -19,7 +21,9 @@
     "latitude": 46.5729,
     "longitude": -0.7698,
     "website": "https://www.vendee-maraispoitevin.com/randonnees-nos-chemins-de-traverse/circuit-pedestre-le-bocage-vouvant-fr-3554508/",
-    "image": ""
+    "image": "",
+    "distance": 114.6,
+    "duration": 96
   },
   {
     "id": "balade-la-folie-vouvant",
@@ -30,7 +34,9 @@
     "latitude": 46.5729,
     "longitude": -0.7698,
     "website": "https://www.vendee-maraispoitevin.com/randonnees-nos-chemins-de-traverse/circuit-pedestre-la-folie-vouvant-fr-3138425/",
-    "image": ""
+    "image": "",
+    "distance": 114.6,
+    "duration": 96
   },
   {
     "id": "balade-l-oree-de-la-foret",
@@ -41,7 +47,9 @@
     "latitude": 46.5729,
     "longitude": -0.7698,
     "website": "https://www.vouvant-vendee.fr/vivre-a-vouvant/balades-et-randonnees/",
-    "image": ""
+    "image": "",
+    "distance": 114.6,
+    "duration": 96
   },
   {
     "id": "balade-la-gasse-du-bois",
@@ -52,6 +60,8 @@
     "latitude": 46.5729,
     "longitude": -0.7698,
     "website": "https://www.vouvant-vendee.fr/vivre-a-vouvant/balades-et-randonnees/",
-    "image": ""
+    "image": "",
+    "distance": 114.6,
+    "duration": 96
   }
 ]

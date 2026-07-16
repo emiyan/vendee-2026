@@ -9,8 +9,8 @@
     "longitude": -2.0468956853533338,
     "website": "https://www.le-maro.fr/decouvrir-et-visiter/balades-et-decouvertes/",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuvkbh4VMu_2l6GbcVAEJ213mRRqYdvRcqnAV7cQzTqw&s=10",
-    "distance": 32.3,
-    "duration": 42
+    "distance": 31.7,
+    "duration": 41
   },
   {
     "id": "marais-poitevin",
@@ -22,8 +22,8 @@
     "longitude": -0.7466681691190601,
     "website": "https://www.parc-marais-poitevin.fr/",
     "image": "https://www.vendee-tourisme.com/sites/www.vendee-tourisme.com/files/styles/paragraphes_mosaique_vertical/public/thumbnails/image/ballademaraispoitevin_570x890.jpg?itok=3d5w-1pW",
-    "distance": 114.8,
-    "duration": 96
+    "distance": 115.1,
+    "duration": 97
   },
   {
     "id": "cote-sauvage",
@@ -35,8 +35,8 @@
     "longitude": -1.94685,
     "website": "https://www.payssaintgilles-tourisme.fr/agenda/visite-guidee-les-villas-du-bord-de-mer/",
     "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/2021/01/corniche-sainthilairederiez-1200x800.jpg",
-    "distance": 4.8,
-    "duration": 8
+    "distance": 3.7,
+    "duration": 7
   },
   {
     "id": "foret-domaniale-pays-monts",
@@ -48,8 +48,8 @@
     "longitude": -2.0321736638682375,
     "website": "https://paysdesaintjeandemonts.fr/decouvrir/incontournables/foret-domaniale-pays-de-monts/?gad_source=1&gad_campaignid=22577693740&gbraid=0AAAAAD6uwvxlkESj593AMk3f-nj9Jtj4V&gclid=Cj0KCQjwguLSBhDLARIsAH-yPrHVRqTMVy40B-MDYCU79pfFJezKJbJ17E7t3OT0TjSlJyhvoY6VWU4aApPTEALw_wcB",
     "image": "https://paysdesaintjeandemonts.fr/app/uploads/iris-images/10388/foret-1-1920x1080-f50_50.webp",
-    "distance": 16.6,
-    "duration": 24
+    "distance": 15.1,
+    "duration": 23
   },
   {
     "id": "foret-mervent-vouvant",
@@ -61,7 +61,7 @@
     "longitude": -0.7314404762434542,
     "website": "https://www.vendee-tourisme.com/",
     "image": "https://www.guide-de-la-vendee.com/_bibli/annonces/872/hd/mervent-01.jpg?v=ficheAnnonce&width=1208&height=540&pixelRatio=1.0000",
-    "distance": 117.4,
+    "distance": 117.7,
     "duration": 101
   },
   {
@@ -74,7 +74,7 @@
     "longitude": -1.1012123656220663,
     "website": "https://www.reserve-baie-aiguillon.fr/",
     "image": "https://www.reserve-baie-aiguillon.fr/wp-content/uploads/2024/06/2018-courlis-cendre-didier-cantin.jpg",
-    "distance": 104.3,
+    "distance": 104.6,
     "duration": 98
   },
   {
@@ -87,8 +87,8 @@
     "longitude": -1.369797737581686,
     "website": "https://reserve-naturelle-belle-henriette.fr/",
     "image": "https://www.vendeedusud.com/wp-content/uploads/wpetourisme/RNN-BH..JPG",
-    "distance": 78.1,
-    "duration": 90
+    "distance": 79.2,
+    "duration": 91
   },
   {
     "id": "reserve-marais-mullembourg",
@@ -100,7 +100,7 @@
     "longitude": -2.2303428441617585,
     "website": "https://reserves-naturelles.org/reserves/marais-de-mullembourg/",
     "image": "https://www.ile-noirmoutier.com/sites/default/files/styles/image_blog/public/2024-03/Marais%20salant%20Marais%20de%20M%C3%BCllembourg%20-%20Trendz.jpg?itok=EHOixc7-",
-    "distance": 53.9,
+    "distance": 53.3,
     "duration": 67
   },
   {
@@ -113,7 +113,7 @@
     "longitude": -1.1419629944506002,
     "website": "https://www.vendee-tourisme.com/la-cite-des-oiseaux/les-landes-genusson/pcupdl085v500opc",
     "image": "https://cdt85.media.tourinsoft.eu/upload/mesange-a-longue-queue.jpg?width=640&height=575&crop=1",
-    "distance": 101.1,
+    "distance": 101.4,
     "duration": 87
   },
   {
@@ -126,7 +126,7 @@
     "longitude": -1.0223802649086913,
     "website": "https://www.vendeedusud.com/loisirs/observatoire-de-la-reserve-des-huttes/",
     "image": "https://www.vendeedusud.com/wp-content/uploads/wpetourisme/D.FUGERE-2018-reserve-Nalliers--160-.jpg",
-    "distance": 92.5,
+    "distance": 92.7,
     "duration": 84
   },
   {
@@ -139,21 +139,8 @@
     "longitude": -2.138577150535606,
     "website": "https://paysdesaintjeandemonts.fr/itineraire/sentier-de-la-dune-au-marais/",
     "image": "https://cdn.iris-etourism.io/uploads/ot_pays_de_saintjean_de_monts/c3f/saintjeandemonts-sentier-duneaumarais-balade-pontdyeu.webp",
-    "distance": 24.2,
-    "duration": 35
-  },
-  {
-    "id": "pointe-de-l-aiguillon",
-    "category": "Nature",
-    "title": "La Pointe de l’Aiguillon",
-    "description": "Espace sensible et magnifique, la Pointe de L'Aiguillon est un lieu de promenade magique. Merci toutefois de respecter la faune et la flore de ce lieu protégé et fragile.",
-    "city": "L'Aiguillon-sur-Mer",
-    "latitude": 46.2694788083136,
-    "longitude": -1.2038201410089413,
-    "website": "https://paysdesaintjeandemonts.fr/itineraire/sentier-de-la-dune-au-marais/",
-    "image": "https://www.vendeedusud.com/wp-content/uploads/wpetourisme/aLamoureux-MG-5367.jpg",
-    "distance": 94.7,
-    "duration": 111
+    "distance": 23.6,
+    "duration": 34
   },
   {
     "id": "ile-du-pilier",
@@ -164,7 +151,9 @@
     "latitude": 47.04388363554521,
     "longitude": -2.360340474323375,
     "website": "https://www.conservatoire-du-littoral.fr/siteLittoral/266/28-ile-du-pilier-85_vendee.htm",
-    "image": "https://www.conservatoire-du-littoral.fr/uploads/Image/ad/IMF_ACCROCHE/GAB_LIT/4456_698_pilier.jpg"
+    "image": "https://www.conservatoire-du-littoral.fr/uploads/Image/ad/IMF_ACCROCHE/GAB_LIT/4456_698_pilier.jpg",
+    "distance": 0,
+    "duration": 0
   },
   {
     "id": "bois-de-la-chaise",
@@ -176,7 +165,7 @@
     "longitude": -2.224576960827404,
     "website": "https://www.ile-noirmoutier.com/fr/explorer-l-ile/le-bois-de-la-chaise",
     "image": "https://www.ile-noirmoutier.com/sites/default/files/styles/image_blog/public/2024-01/Plage%20de%20l%27Anse%20rouge%20Bois%20de%20la%20Chaise%20-%20Trendz.jpg?itok=BcC2B-Ar",
-    "distance": 54.7,
+    "distance": 54.1,
     "duration": 67
   },
   {
@@ -189,8 +178,8 @@
     "longitude": -1.971837877793655,
     "website": "https://www.payssaintgilles-tourisme.fr/patrimoine-naturel/la-corniche-vendeenne/",
     "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/wpetourisme/Aerien-0722-780x560.jpg",
-    "distance": 3.4,
-    "duration": 8
+    "distance": 2.5,
+    "duration": 6
   },
   {
     "id": "marais-salants-de-noirmoutier",
@@ -202,8 +191,8 @@
     "longitude": -2.2696905291157763,
     "website": "https://www.ile-noirmoutier.com/fr/activites-sur-l-ile/groupe-activites/visiter-les-marais-salants",
     "image": "https://www.ile-noirmoutier.com/sites/default/files/styles/view_list_large/public/header/Marais%20Salant%20-%20L%27Epine%20%C2%A9Office%20de%20Tourisme%20Ile%20de%20Noirmoutier-Vend%C3%A9e%20Expansion-Simon%20Bourcier.jpg?itok=I4RpfcM5",
-    "distance": 55,
-    "duration": 68
+    "distance": 54.4,
+    "duration": 67
   },
   {
     "id": "passage-du-gois",
@@ -215,7 +204,7 @@
     "longitude": -2.1241216072277793,
     "website": "https://www.vendee-tourisme.com/nos-incontournables/le-gois",
     "image": "https://www.vendee-tourisme.com/sites/www.vendee-tourisme.com/files/styles/paragraphes_mosaique_horizontal/public/thumbnails/image/le-gois_noirmoutier_570x430.jpg?itok=GDo5QaXq",
-    "distance": 38.8,
+    "distance": 38.2,
     "duration": 49
   }
 ]
