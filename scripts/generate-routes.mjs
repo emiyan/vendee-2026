@@ -46,8 +46,7 @@ async function getRoute(place) {
     const error = await response.json().catch(() => null);
 
     console.warn(
-      `⚠ ${place.title} : ${
-        error?.error?.message ?? "Impossible de calculer l'itinéraire"
+      `⚠ ${place.title} : ${error?.error?.message ?? "Impossible de calculer l'itinéraire"
       }`
     );
 
@@ -67,53 +66,62 @@ async function getRoute(place) {
 }
 
 for (const file of files) {
-  console.log(`\n📄 ${file}`);
+  try {
+    console.log(`\n📄 ${file}`);
 
-  const filename = path.join(DATA_FOLDER, file);
+    const filename = path.join(DATA_FOLDER, file);
 
-  const content = await fs.readFile(filename, "utf8");
+    const content = await fs.readFile(filename, "utf8");
 
-  const places = JSON.parse(content);
+    const places = JSON.parse(content);
 
-  let modified = false;
+    let modified = false;
 
-  for (const place of places) {
-    if (place.distance && place.duration) {
-      console.log(`✔ ${place.title}`);
-      continue;
+    for (const place of places) {
+      if (
+        place.distance !== undefined &&
+        place.duration !== undefined
+      ) {
+        console.log(`✔ ${place.title}`);
+        continue;
+      }
+
+      console.log(`⏳ ${place.title}`);
+
+      const route = await getRoute(place);
+
+      if (!route) {
+        continue;
+      }
+
+      place.distance = route.distance;
+      place.duration = route.duration;
+
+      console.log(
+        `   🚗 ${route.distance} km • ${route.duration} min`
+      );
+
+      modified = true;
+
+      await new Promise((resolve) =>
+        setTimeout(resolve, 250)
+      );
     }
 
-    console.log(`⏳ ${place.title}`);
+    if (modified) {
+      await fs.writeFile(
+        filename,
+        JSON.stringify(places, null, 2),
+        "utf8"
+      );
 
-    const route = await getRoute(place);
-
-    if (!route) {
-      continue;
+      console.log("💾 Sauvegardé");
+    } else {
+      console.log("Aucune modification");
     }
-
-    place.distance = route.distance;
-    place.duration = route.duration;
-
-    console.log(
-      `   🚗 ${route.distance} km • ${route.duration} min`
-    );
-
-    modified = true;
-
-    // Petite pause pour ne pas saturer l'API
-    await new Promise((resolve) => setTimeout(resolve, 250));
-  }
-
-  if (modified) {
-    await fs.writeFile(
-      filename,
-      JSON.stringify(places, null, 2),
-      "utf8"
-    );
-
-    console.log("💾 Sauvegardé");
-  } else {
-    console.log("Aucune modification");
+  } catch (error) {
+    console.error(`❌ Erreur dans ${file}`);
+    console.error(error);
   }
 }
 
