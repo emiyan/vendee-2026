@@ -63,5 +63,31 @@
     "image": "https://www.payssaintgilles-tourisme.fr/wp-content/uploads/wpetourisme/sgcv-18-05-23-basse-def-53-780x560.jpg",
     "distance": 5,
     "duration": 9
+  },
+  {
+    "id": "plage-des-souzeaux",
+    "category": "Plages",
+    "title": "Plage des Souzeaux",
+    "description": "Entre l'Anse rouge et le Rocher du Cob, la plage des Souzeaux est LA plage des noirmoutrins ! C'est un lieu tranquille et méconnu.",
+    "city": "Noirmoutier-en-l'Île",
+    "latitude": 47.02503285233399,
+    "longitude": -2.2233640236924965,
+    "website": "https://www.guide-de-la-vendee.com/fr/tourisme/decouvrir/plages/noirmoutier-en-l-ile-157/plage-des-souzeaux-2029.html",
+    "image": "https://www.guide-de-la-vendee.com/_bibli/annonces/2029/hd/noirmoutier-59-.jpg?v=ficheAnnonce&width=1208&height=540&pixelRatio=1.0000",
+    "distance": 54.9,
+    "duration": 69
+  },
+  {
+    "id": "plage-de-l-anse-rouge",
+    "category": "Plages",
+    "title": "Plage de l'Anse rouge",
+    "description": "La plage de l’anse Rouge sur l’ile de Noirmoutier est sans doute l’une des criques les plus préservées de l’ile.",
+    "city": "Noirmoutier-en-l'Île",
+    "latitude": 47.01510526809286,
+    "longitude": -2.221667758077194,
+    "website": "https://www.guide-de-la-vendee.com/fr/tourisme/decouvrir/plages/noirmoutier-en-l-ile-157/plage-de-l-anse-rouge-2028.html",
+    "image": "https://www.guide-de-la-vendee.com/_bibli/annonces/2028/hd/noirmoutier-46-.jpg?v=ficheAnnonce&width=1208&height=540&pixelRatio=1.0000",
+    "distance": 54.9,
+    "duration": 70
   }
 ]
